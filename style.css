@@ -31,7 +31,7 @@ body {
         radial-gradient(circle at top left, rgba(31, 122, 140, 0.22), transparent 32%),
         radial-gradient(circle at 85% 15%, rgba(46, 139, 120, 0.18), transparent 24%),
         linear-gradient(180deg, #eef9f8 0%, #dff1ef 45%, #edf8f6 100%);
-    min-height: 100vh;
+    min-height: 60vh;
 }
 
 body::before {
@@ -149,7 +149,7 @@ a {
 
 .hero {
     display: grid;
-    grid-template-columns: minmax(0, 1.25fr) minmax(320px, 0.9fr);
+    grid-template-columns: minmax(0, 0.9fr) minmax(320px, 0.9fr);
     gap: 28px;
     align-items: stretch;
     margin-bottom: 28px;
@@ -205,7 +205,7 @@ p {
 
 .hero-copy h1 {
     font-family: "Space Grotesk", sans-serif;
-    font-size: clamp(2.8rem, 5vw, 5.4rem);
+    font-size: clamp(1.1rem, 4vw, 5.0rem);
     line-height: 0.94;
     margin-bottom: 12px;
     max-width: 10ch;
@@ -213,15 +213,15 @@ p {
 
 .hero-copy h2 {
     font-family: "Space Grotesk", sans-serif;
-    font-size: clamp(1.1rem, 2vw, 1.55rem);
+    font-size: clamp(1.1rem, 1vw, 1.55rem);
     letter-spacing: 0.22em;
-    margin-bottom: 24px;
+    margin-bottom: 22px;
     color: var(--muted);
 }
 
 .hero-copy p {
     max-width: 55ch;
-    font-size: 1.04rem;
+    font-size: 0.9rem;
     line-height: 1.8;
     color: var(--muted);
 }
@@ -238,6 +238,7 @@ p {
     align-items: center;
     justify-content: center;
     min-height: 52px;
+    width:60%;
     padding: 0 22px;
     border-radius: 999px;
     border: 1px solid transparent;
@@ -280,12 +281,12 @@ p {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    aspect-ratio: 4 / 5;
+    aspect-ratio: 4 / 3;
 }
 
 .stat-grid {
     display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 14px;
 }
 
@@ -305,8 +306,8 @@ p {
 
 .stat-card span {
     color: var(--muted);
-    line-height: 1.5;
-    font-size: 0.95rem;
+    line-height: 1;
+    font-size: 0.75rem;
 }
 
 .section {
