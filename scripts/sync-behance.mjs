@@ -12,8 +12,9 @@ const DATA_FILE = path.join(COVER_DIR, 'projects.json');
 const START_MARKER = '<!-- BEHANCE-PROJECTS:START -->';
 const END_MARKER = '<!-- BEHANCE-PROJECTS:END -->';
 const ENDPOINT = 'https://www.behance.net/v3/graphql';
-const SITE_URL = 'https://lucasogoncalves.github.io/landing-portfolio';
-const BASE_PATH = '/landing-portfolio';
+const SITE_URL = 'https://lucasogoncalves.com';
+const BASE_PATH = '';
+const IMAGE_PLACEHOLDER = 'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 808 632%22%3E%3C/svg%3E';
 const BCP = '96ee8700-3ce5-4445-96b2-ab0e1a76a63a';
 const DEFAULT_USERNAME = 'lucas-o-goncalves';
 const DEFAULT_LIMIT = 50;
@@ -509,7 +510,7 @@ function renderProjectCard(project) {
   const projectPage = `${project.localUrl}index.html`;
   return `                        <article class="panel project-card">
                             <a href="${escapeHtml(projectPage)}" aria-label="Abrir o projeto ${escapeHtml(project.name)}">
-                                <img src="${escapeHtml(project.image)}" alt="${escapeHtml(project.name)}" loading="lazy">
+                                <img src="${IMAGE_PLACEHOLDER}" data-src="${escapeHtml(project.image)}" alt="${escapeHtml(project.name)}" loading="lazy" decoding="async" fetchpriority="low">
                             </a>
                             <div>
                                 <h3><a href="${escapeHtml(projectPage)}">${escapeHtml(project.name)}</a></h3>

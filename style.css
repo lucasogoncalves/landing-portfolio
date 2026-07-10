@@ -418,6 +418,10 @@ p {
     border: 1px solid rgba(22, 49, 58, 0.08);
 }
 
+.project-card img[data-src] {
+    background: var(--surface-strong);
+}
+
 .project-card h3 {
     margin-bottom: 10px;
 }
