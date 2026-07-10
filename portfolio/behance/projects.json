@@ -1,6 +1,6 @@
 {
   "username": "lucas-o-goncalves",
-  "syncedAt": "2026-07-10T16:25:09.297Z",
+  "syncedAt": "2026-07-10T17:11:22.175Z",
   "projects": [
     {
       "id": 252027197,
@@ -35,14 +35,211 @@
           "all": 0
         },
         "views": {
-          "all": 3
+          "all": 4
         },
         "comments": {
           "all": 0
         }
       },
       "image": "portfolio/behance/252027197-catalogo-imobiliario-oases.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/original/40c48b252027197.Y3JvcCw3MjEsNTY0LDMyMywxMDE.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/original/40c48b252027197.Y3JvcCw3MjEsNTY0LDMyMywxMDE.jpg",
+      "description": "Fizemos um catálogo editorial para a OASES, a proposta foi conciliar a fotografia com a identidade visual da imobiliária com o objetivo de atingir um público de alto padrão",
+      "localUrl": "projetos/catalogo-imobiliario-oases/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/351d98252027197.6a4510f12718d.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "editorial design Graphic Designer",
+              "path": "projetos/catalogo-imobiliario-oases/imagens/01-01-351d98252027197-6a4510f12718.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/b66b2d252027197.6a4510f128254.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "editorial design Graphic Designer",
+              "path": "projetos/catalogo-imobiliario-oases/imagens/02-01-b66b2d252027197-6a4510f12825.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/a8210f252027197.6a4510f12771c.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "editorial design Graphic Designer",
+              "path": "projetos/catalogo-imobiliario-oases/imagens/03-01-a8210f252027197-6a4510f12771.webp"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/3596e9252027197.6a451a6af41f9.jpg",
+              "width": 2550,
+              "height": 3300,
+              "alt": "",
+              "path": "projetos/catalogo-imobiliario-oases/imagens/04-01-3596e9252027197-6a451a6af41f.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e95d70252027197.6a451a6af3dec.jpg",
+              "width": 2550,
+              "height": 3300,
+              "alt": "",
+              "path": "projetos/catalogo-imobiliario-oases/imagens/04-02-e95d70252027197-6a451a6af3de.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/070dfb252027197.6a4510f127c90.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "editorial design Graphic Designer",
+              "path": "projetos/catalogo-imobiliario-oases/imagens/05-01-070dfb252027197-6a4510f127c9.webp"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/0008da252027197.6a451b0a9b0a2.jpg",
+              "width": 2550,
+              "height": 3300,
+              "alt": "",
+              "path": "projetos/catalogo-imobiliario-oases/imagens/06-01-0008da252027197-6a451b0a9b0a.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/1d3d23252027197.6a451b0a9b622.jpg",
+              "width": 2550,
+              "height": 3300,
+              "alt": "",
+              "path": "projetos/catalogo-imobiliario-oases/imagens/06-02-1d3d23252027197-6a451b0a9b62.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e5f1de252027197.6a4510f126b87.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "editorial design Graphic Designer",
+              "path": "projetos/catalogo-imobiliario-oases/imagens/07-01-e5f1de252027197-6a4510f126b8.webp"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/6b06cc252027197.6a451a6b8f9fb.jpg",
+              "width": 2550,
+              "height": 3300,
+              "alt": "",
+              "path": "projetos/catalogo-imobiliario-oases/imagens/08-01-6b06cc252027197-6a451a6b8f9f.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/b4cf18252027197.6a451a6b8f497.jpg",
+              "width": 2550,
+              "height": 3300,
+              "alt": "",
+              "path": "projetos/catalogo-imobiliario-oases/imagens/08-02-b4cf18252027197-6a451a6b8f49.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/5827b4252027197.6a4510f1287d0.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "editorial design Graphic Designer",
+              "path": "projetos/catalogo-imobiliario-oases/imagens/09-01-5827b4252027197-6a4510f1287d.webp"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/d46cc9252027197.6a451a6c19a5d.jpg",
+              "width": 2550,
+              "height": 3300,
+              "alt": "",
+              "path": "projetos/catalogo-imobiliario-oases/imagens/10-01-d46cc9252027197-6a451a6c19a5.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/c680e1252027197.6a451a6c195a8.jpg",
+              "width": 2550,
+              "height": 3300,
+              "alt": "",
+              "path": "projetos/catalogo-imobiliario-oases/imagens/10-02-c680e1252027197-6a451a6c195a.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/5c5ea7252027197.6a4510f128d79.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "editorial design Graphic Designer",
+              "path": "projetos/catalogo-imobiliario-oases/imagens/11-01-5c5ea7252027197-6a4510f128d7.webp"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/56c33d252027197.6a451b0b2f772.jpg",
+              "width": 2550,
+              "height": 3300,
+              "alt": "",
+              "path": "projetos/catalogo-imobiliario-oases/imagens/12-01-56c33d252027197-6a451b0b2f77.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/b54459252027197.6a451b0b2fb00.jpg",
+              "width": 2550,
+              "height": 3300,
+              "alt": "",
+              "path": "projetos/catalogo-imobiliario-oases/imagens/12-02-b54459252027197-6a451b0b2fb0.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/38330e252027197.6a451b0b2ef73.jpg",
+              "width": 2550,
+              "height": 3300,
+              "alt": "",
+              "path": "projetos/catalogo-imobiliario-oases/imagens/12-03-38330e252027197-6a451b0b2ef7.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/b5e048252027197.6a451b0b2f359.jpg",
+              "width": 2550,
+              "height": 3300,
+              "alt": "",
+              "path": "projetos/catalogo-imobiliario-oases/imagens/12-04-b5e048252027197-6a451b0b2f35.webp"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 250140583,
@@ -74,14 +271,275 @@
           "all": 1
         },
         "views": {
-          "all": 9
+          "all": 10
         },
         "comments": {
           "all": 0
         }
       },
       "image": "portfolio/behance/250140583-social-media-liberdade-private-club.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/473686250140583.Y3JvcCwzODM1LDMwMDAsODUsMA.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/473686250140583.Y3JvcCwzODM1LDMwMDAsODUsMA.jpg",
+      "description": "Graphic Design, Canva, Adobe Illustrator, Adobe Photoshop, ChatGPT",
+      "localUrl": "projetos/social-media-liberdade-private-club/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/2c2cd9250140583.6a17faf9043cc.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "Social Media Design Instagram Post visual identity design brand identity TikTok youtube instagram",
+              "path": "projetos/social-media-liberdade-private-club/imagens/01-01-2c2cd9250140583-6a17faf9043c.webp"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/438a59250140583.6a17f5ab8f2de.jpg",
+              "width": 2250,
+              "height": 2250,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/02-01-438a59250140583-6a17f5ab8f2d.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/8c60e9250140583.6a17f5ab8e7f1.jpg",
+              "width": 2250,
+              "height": 2250,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/02-02-8c60e9250140583-6a17f5ab8e7f.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/4ed27c250140583.6a17f5ab8eb9d.jpg",
+              "width": 2250,
+              "height": 2250,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/02-03-4ed27c250140583-6a17f5ab8eb9.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e24c6f250140583.6a17f5ab8ef43.jpg",
+              "width": 3840,
+              "height": 3840,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/02-04-e24c6f250140583-6a17f5ab8ef4.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/bc0d06250140583.6a17f5ab8e413.jpg",
+              "width": 3840,
+              "height": 3840,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/02-05-bc0d06250140583-6a17f5ab8e41.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/77110f250140583.6a17faf904986.png",
+              "width": 1400,
+              "height": 1050,
+              "alt": "Social Media Design Instagram Post visual identity design brand identity TikTok youtube instagram",
+              "path": "projetos/social-media-liberdade-private-club/imagens/03-01-77110f250140583-6a17faf90498.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/d92fc7250140583.6a17f5ad9a92f.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "Social Media Design Instagram Post visual identity design brand identity TikTok youtube instagram",
+              "path": "projetos/social-media-liberdade-private-club/imagens/04-01-d92fc7250140583-6a17f5ad9a92.webp"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/44d6f6250140583.6a17faf64c671.jpeg",
+              "width": 1080,
+              "height": 1350,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/05-01-44d6f6250140583-6a17faf64c67.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/032cf4250140583.6a17f5ac279be.jpeg",
+              "width": 1080,
+              "height": 1350,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/05-02-032cf4250140583-6a17f5ac279b.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/edd6c9250140583.6a17f5ac271ce.jpeg",
+              "width": 1080,
+              "height": 1350,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/05-03-edd6c9250140583-6a17f5ac271c.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/0b3a29250140583.6a17f5ac26aa2.jpeg",
+              "width": 1080,
+              "height": 1350,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/05-04-0b3a29250140583-6a17f5ac26aa.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/4a54ef250140583.6a17faf64cdfb.jpeg",
+              "width": 1080,
+              "height": 1350,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/05-05-4a54ef250140583-6a17faf64cdf.webp"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/f7a451250140583.6a17faf6edbda.jpg",
+              "width": 2250,
+              "height": 4000,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/06-01-f7a451250140583-6a17faf6edbd.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/6e40a4250140583.6a17faf6ee95a.jpg",
+              "width": 2250,
+              "height": 4000,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/06-02-6e40a4250140583-6a17faf6ee95.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/3d7d5d250140583.6a17faf6ed387.jpg",
+              "width": 2250,
+              "height": 4000,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/06-03-3d7d5d250140583-6a17faf6ed38.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/264943250140583.6a17faf6eefd6.jpg",
+              "width": 3840,
+              "height": 6827,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/06-04-264943250140583-6a17faf6eefd.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/7749fc250140583.6a17faf6f0b28.jpg",
+              "width": 3840,
+              "height": 6827,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/06-05-7749fc250140583-6a17faf6f0b2.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/10476b250140583.6a17faf6f125e.jpg",
+              "width": 3840,
+              "height": 6827,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/06-06-10476b250140583-6a17faf6f125.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/11d95f250140583.6a17faf6f2308.jpg",
+              "width": 3840,
+              "height": 6827,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/06-07-11d95f250140583-6a17faf6f230.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/6cd40c250140583.6a17faf6f29fc.jpg",
+              "width": 3840,
+              "height": 6827,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/06-08-6cd40c250140583-6a17faf6f29f.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/a57113250140583.6a17faf6ee2f0.jpg",
+              "width": 3840,
+              "height": 6827,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/06-09-a57113250140583-6a17faf6ee2f.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/0850d6250140583.6a17faf6efdcb.jpg",
+              "width": 3840,
+              "height": 6827,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/06-10-0850d6250140583-6a17faf6efdc.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/abdfda250140583.6a17faf6f1a55.jpg",
+              "width": 3840,
+              "height": 6827,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/06-11-abdfda250140583-6a17faf6f1a5.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/ba45d1250140583.6a17faf6ef6ca.jpg",
+              "width": 3840,
+              "height": 6827,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/06-12-ba45d1250140583-6a17faf6ef6c.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/fea01f250140583.6a17faf6f0439.jpg",
+              "width": 3840,
+              "height": 6827,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/06-13-fea01f250140583-6a17faf6f043.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/df5765250140583.6a17faf904ee5.jpg",
+              "width": 1400,
+              "height": 1400,
+              "alt": "Social Media Design Instagram Post visual identity design brand identity TikTok youtube instagram",
+              "path": "projetos/social-media-liberdade-private-club/imagens/07-01-df5765250140583-6a17faf904ee.webp"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/1cdf8f250140583.6a17fe173c1d6.jpeg",
+              "width": 800,
+              "height": 1200,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/08-01-1cdf8f250140583-6a17fe173c1d.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/363ab1250140583.6a17faf88ed6b.jpeg",
+              "width": 739,
+              "height": 1600,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/08-02-363ab1250140583-6a17faf88ed6.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/686882250140583.6a17fe173c954.png",
+              "width": 1024,
+              "height": 1536,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/08-03-686882250140583-6a17fe173c95.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/5bab1a250140583.6a17faf88f1e5.jpeg",
+              "width": 900,
+              "height": 1600,
+              "alt": "",
+              "path": "projetos/social-media-liberdade-private-club/imagens/08-04-5bab1a250140583-6a17faf88f1e.webp"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 250024147,
@@ -130,7 +588,54 @@
         }
       },
       "image": "portfolio/behance/250024147-site-liberdade-private-club.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/4ce6f2250024147.Y3JvcCw0NTAwLDM1MTksMCwyMjgz.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/4ce6f2250024147.Y3JvcCw0NTAwLDM1MTksMCwyMjgz.jpg",
+      "description": "Esse é o Liberdade Private Club, um clube de futebol criado do zero na internet onde tive o privilégio de fazer parte dele.Desenvolvi o site do clube que começou como uma landing page, mas acabou se tornando a ferramenta essencial de seleção dos partici...",
+      "localUrl": "projetos/site-liberdade-private-club/",
+      "modules": [
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/b39f02250024147.6a155020a656c.jpg",
+              "width": 3840,
+              "height": 2880,
+              "alt": "",
+              "path": "projetos/site-liberdade-private-club/imagens/01-01-b39f02250024147-6a155020a656.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/409f9f250024147.6a155020a60e9.png",
+              "width": 3840,
+              "height": 2880,
+              "alt": "",
+              "path": "projetos/site-liberdade-private-club/imagens/01-02-409f9f250024147-6a155020a60e.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/35bbea250024147.6a1550ca4a437.png",
+              "width": 1200,
+              "height": 6905,
+              "alt": "landing page Web Design  UI/UX Website user interface wordpress elementor web development  ui design user experience",
+              "path": "projetos/site-liberdade-private-club/imagens/02-01-35bbea250024147-6a1550ca4a43.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/9059b6250024147.6a154b984aa9c.jpg",
+              "width": 1200,
+              "height": 2133,
+              "alt": "landing page Web Design  UI/UX Website user interface wordpress elementor web development  ui design user experience",
+              "path": "projetos/site-liberdade-private-club/imagens/03-01-9059b6250024147-6a154b984aa9.jpg"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 250020825,
@@ -174,7 +679,305 @@
         }
       },
       "image": "portfolio/behance/250020825-branding-liberdade-private-club.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/2c4453250020825.Y3JvcCw5NTUsNzQ3LDI5Nyw1Mg.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/2c4453250020825.Y3JvcCw5NTUsNzQ3LDI5Nyw1Mg.jpg",
+      "description": "Esse é o Liberdade Private Club, um clube de futebol criado do zero na internet onde tive o privilégio de fazer parte dele.Desenvolvi a identidade visual e a partir dela fui derivando o uniforme e criando as outras peças de design e integrando as marcas...",
+      "localUrl": "projetos/branding-liberdade-private-club/",
+      "modules": [
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/3cb71f250020825.6a153e02b2bb3.jpg",
+              "width": 3840,
+              "height": 3840,
+              "alt": "",
+              "path": "projetos/branding-liberdade-private-club/imagens/01-01-3cb71f250020825-6a153e02b2bb.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/4b8be6250020825.6a1548aaaed32.jpg",
+              "width": 3840,
+              "height": 2880,
+              "alt": "",
+              "path": "projetos/branding-liberdade-private-club/imagens/01-02-4b8be6250020825-6a1548aaaed3.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/1e9e1a250020825.6a153e02b3237.jpg",
+              "width": 3840,
+              "height": 2220,
+              "alt": "",
+              "path": "projetos/branding-liberdade-private-club/imagens/01-03-1e9e1a250020825-6a153e02b323.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/13aeea250020825.6a153e02b5140.jpg",
+              "width": 1400,
+              "height": 933,
+              "alt": "",
+              "path": "projetos/branding-liberdade-private-club/imagens/01-04-13aeea250020825-6a153e02b514.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/60d22a250020825.6a153e02b3f10.jpg",
+              "width": 3840,
+              "height": 6827,
+              "alt": "",
+              "path": "projetos/branding-liberdade-private-club/imagens/01-05-60d22a250020825-6a153e02b3f1.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/1de1e1250020825.6a1548aaaf71b.png",
+              "width": 3840,
+              "height": 2880,
+              "alt": "",
+              "path": "projetos/branding-liberdade-private-club/imagens/01-06-1de1e1250020825-6a1548aaaf71.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/9ff84d250020825.6a153e02b4b66.jpg",
+              "width": 1400,
+              "height": 1400,
+              "alt": "",
+              "path": "projetos/branding-liberdade-private-club/imagens/01-07-9ff84d250020825-6a153e02b4b6.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/5eb4d6250020825.6a153e02b5db1.jpg",
+              "width": 3840,
+              "height": 2400,
+              "alt": "",
+              "path": "projetos/branding-liberdade-private-club/imagens/01-08-5eb4d6250020825-6a153e02b5db.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f661fc250020825.6a153e02b4592.jpg",
+              "width": 1200,
+              "height": 795,
+              "alt": "",
+              "path": "projetos/branding-liberdade-private-club/imagens/01-09-f661fc250020825-6a153e02b459.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/7c49a0250020825.6a153e02b2533.jpg",
+              "width": 1105,
+              "height": 827,
+              "alt": "",
+              "path": "projetos/branding-liberdade-private-club/imagens/01-10-7c49a0250020825-6a153e02b253.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/54f7d8250020825.6a1548aaaf2ba.png",
+              "width": 3840,
+              "height": 2160,
+              "alt": "",
+              "path": "projetos/branding-liberdade-private-club/imagens/01-11-54f7d8250020825-6a1548aaaf2b.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/072aef250020825.6a153e02b1f17.jpg",
+              "width": 1082,
+              "height": 1600,
+              "alt": "",
+              "path": "projetos/branding-liberdade-private-club/imagens/01-12-072aef250020825-6a153e02b1f1.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/1fff2d250020825.6a153e02b38b1.jpg",
+              "width": 3840,
+              "height": 2880,
+              "alt": "",
+              "path": "projetos/branding-liberdade-private-club/imagens/01-13-1fff2d250020825-6a153e02b38b.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/f60ce4250020825.6a153e02b57c8.jpg",
+              "width": 3840,
+              "height": 2880,
+              "alt": "",
+              "path": "projetos/branding-liberdade-private-club/imagens/01-14-f60ce4250020825-6a153e02b57c.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/c0a250250020825.6a153e02b639b.jpg",
+              "width": 3840,
+              "height": 2880,
+              "alt": "",
+              "path": "projetos/branding-liberdade-private-club/imagens/01-15-c0a250250020825-6a153e02b639.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/c0b91d250020825.6a153e0454a5f.jpg",
+              "width": 1400,
+              "height": 2489,
+              "alt": "branding  design Graphic Designer visual identity Logo Design adobe illustrator photoshop futebol soccer Sports Design",
+              "path": "projetos/branding-liberdade-private-club/imagens/02-01-c0b91d250020825-6a153e0454a5.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/0240fd250020825.6a153e0453985.jpg",
+              "width": 1400,
+              "height": 1400,
+              "alt": "branding  design Graphic Designer visual identity Logo Design adobe illustrator photoshop futebol soccer Sports Design",
+              "path": "projetos/branding-liberdade-private-club/imagens/03-01-0240fd250020825-6a153e045398.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e9bdad250020825.6a153e04563b8.jpg",
+              "width": 1400,
+              "height": 1400,
+              "alt": "branding  design Graphic Designer visual identity Logo Design adobe illustrator photoshop futebol soccer Sports Design",
+              "path": "projetos/branding-liberdade-private-club/imagens/04-01-e9bdad250020825-6a153e04563b.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/bdf26a250020825.6a153e0451e05.jpg",
+              "width": 1400,
+              "height": 933,
+              "alt": "branding  design Graphic Designer visual identity Logo Design adobe illustrator photoshop futebol soccer Sports Design",
+              "path": "projetos/branding-liberdade-private-club/imagens/05-01-bdf26a250020825-6a153e0451e0.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/99b5fd250020825.6a153e0452f44.jpg",
+              "width": 1400,
+              "height": 875,
+              "alt": "branding  design Graphic Designer visual identity Logo Design adobe illustrator photoshop futebol soccer Sports Design",
+              "path": "projetos/branding-liberdade-private-club/imagens/06-01-99b5fd250020825-6a153e0452f4.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/61eb1e250020825.6a153e0454510.jpg",
+              "width": 1400,
+              "height": 810,
+              "alt": "branding  design Graphic Designer visual identity Logo Design adobe illustrator photoshop futebol soccer Sports Design",
+              "path": "projetos/branding-liberdade-private-club/imagens/07-01-61eb1e250020825-6a153e045451.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/41ed5b250020825.6a1548ac82141.png",
+              "width": 1400,
+              "height": 788,
+              "alt": "branding  design Graphic Designer visual identity Logo Design adobe illustrator photoshop futebol soccer Sports Design",
+              "path": "projetos/branding-liberdade-private-club/imagens/08-01-41ed5b250020825-6a1548ac8214.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/926c4f250020825.6a153e04534af.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "branding  design Graphic Designer visual identity Logo Design adobe illustrator photoshop futebol soccer Sports Design",
+              "path": "projetos/branding-liberdade-private-club/imagens/09-01-926c4f250020825-6a153e04534a.webp"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/392f8c250020825.6a1548ab949ac.png",
+              "width": 1132,
+              "height": 849,
+              "alt": "",
+              "path": "projetos/branding-liberdade-private-club/imagens/10-01-392f8c250020825-6a1548ab949a.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/7869cb250020825.6a1548ab94e02.png",
+              "width": 3840,
+              "height": 2880,
+              "alt": "",
+              "path": "projetos/branding-liberdade-private-club/imagens/10-02-7869cb250020825-6a1548ab94e0.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/6e1a57250020825.6a1548ab95212.png",
+              "width": 3840,
+              "height": 2880,
+              "alt": "",
+              "path": "projetos/branding-liberdade-private-club/imagens/10-03-6e1a57250020825-6a1548ab9521.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/5b030c250020825.6a153e0453ea5.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "branding  design Graphic Designer visual identity Logo Design adobe illustrator photoshop futebol soccer Sports Design",
+              "path": "projetos/branding-liberdade-private-club/imagens/11-01-5b030c250020825-6a153e0453ea.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/c0a1d4250020825.6a153e0455484.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "branding  design Graphic Designer visual identity Logo Design adobe illustrator photoshop futebol soccer Sports Design",
+              "path": "projetos/branding-liberdade-private-club/imagens/12-01-c0a1d4250020825-6a153e045548.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/2933d1250020825.6a153e0455ed3.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "branding  design Graphic Designer visual identity Logo Design adobe illustrator photoshop futebol soccer Sports Design",
+              "path": "projetos/branding-liberdade-private-club/imagens/13-01-2933d1250020825-6a153e0455ed.webp"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/cb4677250020825.6a1542b5705e1.jpg",
+              "width": 3840,
+              "height": 2880,
+              "alt": "",
+              "path": "projetos/branding-liberdade-private-club/imagens/14-01-cb4677250020825-6a1542b5705e.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/c054ce250020825.6a1542b570b28.jpg",
+              "width": 3840,
+              "height": 2880,
+              "alt": "",
+              "path": "projetos/branding-liberdade-private-club/imagens/14-02-c054ce250020825-6a1542b570b2.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/005ced250020825.6a1542b5701b4.jpg",
+              "width": 3840,
+              "height": 2880,
+              "alt": "",
+              "path": "projetos/branding-liberdade-private-club/imagens/14-03-005ced250020825-6a1542b5701b.webp"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 233530679,
@@ -221,7 +1024,95 @@
         }
       },
       "image": "portfolio/behance/233530679-trazso-e-commerce-de-impressao-3d-com-preview.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/original/8b825e233530679.Y3JvcCw2OTMsNTQyLDcwNSwyMTI.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/original/8b825e233530679.Y3JvcCw2OTMsNTQyLDcwNSwyMTI.jpg",
+      "description": "Graphic Design, Interaction Design, Product Design, Adobe Illustrator, Adobe Photoshop, WordPress, Processing, ChatGPT",
+      "localUrl": "projetos/trazso-e-commerce-de-impressao-3d-com-preview/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/70e8d6233530679.68b12b90c7148.jpg",
+              "width": 1400,
+              "height": 1000,
+              "alt": "design vibecoding visual design ecommerce website Web Design  UI/UX wordpress",
+              "path": "projetos/trazso-e-commerce-de-impressao-3d-com-preview/imagens/01-01-70e8d6233530679-68b12b90c714.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/d5f4ac233530679.68b12b90c6ac1.jpg",
+              "width": 1400,
+              "height": 1000,
+              "alt": "design vibecoding visual design ecommerce website Web Design  UI/UX wordpress",
+              "path": "projetos/trazso-e-commerce-de-impressao-3d-com-preview/imagens/02-01-d5f4ac233530679-68b12b90c6ac.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/42914c233530679.68b12b90c47d8.jpg",
+              "width": 1400,
+              "height": 1000,
+              "alt": "design vibecoding visual design ecommerce website Web Design  UI/UX wordpress",
+              "path": "projetos/trazso-e-commerce-de-impressao-3d-com-preview/imagens/03-01-42914c233530679-68b12b90c47d.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/8ff0d5233530679.68b12b90c5891.jpg",
+              "width": 1400,
+              "height": 1000,
+              "alt": "design vibecoding visual design ecommerce website Web Design  UI/UX wordpress",
+              "path": "projetos/trazso-e-commerce-de-impressao-3d-com-preview/imagens/04-01-8ff0d5233530679-68b12b90c589.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/2a2198233530679.68b12b90c6214.jpg",
+              "width": 1400,
+              "height": 1000,
+              "alt": "design vibecoding visual design ecommerce website Web Design  UI/UX wordpress",
+              "path": "projetos/trazso-e-commerce-de-impressao-3d-com-preview/imagens/05-01-2a2198233530679-68b12b90c621.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/531596233530679.68b12b90c41e8.jpg",
+              "width": 1400,
+              "height": 1000,
+              "alt": "design vibecoding visual design ecommerce website Web Design  UI/UX wordpress",
+              "path": "projetos/trazso-e-commerce-de-impressao-3d-com-preview/imagens/06-01-531596233530679-68b12b90c41e.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/7412ba233530679.68b12b90c4fd8.jpg",
+              "width": 1400,
+              "height": 1000,
+              "alt": "design vibecoding visual design ecommerce website Web Design  UI/UX wordpress",
+              "path": "projetos/trazso-e-commerce-de-impressao-3d-com-preview/imagens/07-01-7412ba233530679-68b12b90c4fd.webp"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 206834849,
@@ -265,7 +1156,131 @@
         }
       },
       "image": "portfolio/behance/206834849-gp-print-catalogo-de-produtos.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/a0067a206834849.Y3JvcCwyMjAyLDE3MjIsMjc4LDI2MQ.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/a0067a206834849.Y3JvcCwyMjAyLDE3MjIsMjc4LDI2MQ.jpg",
+      "description": "Graphic Design, Advertising",
+      "localUrl": "projetos/gp-print-catalogo-de-produtos/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/cbab88206834849.66d3187d34160.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "catalog design Graphic Designer marketing",
+              "path": "projetos/gp-print-catalogo-de-produtos/imagens/01-01-cbab88206834849-66d3187d3416.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/da40ed206834849.66d3187d338fa.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "catalog design Graphic Designer marketing",
+              "path": "projetos/gp-print-catalogo-de-produtos/imagens/02-01-da40ed206834849-66d3187d338f.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/11ace8206834849.66d3187d32db2.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "catalog design Graphic Designer marketing",
+              "path": "projetos/gp-print-catalogo-de-produtos/imagens/03-01-11ace8206834849-66d3187d32db.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/690ccf206834849.66d3187d35e17.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "catalog design Graphic Designer marketing",
+              "path": "projetos/gp-print-catalogo-de-produtos/imagens/04-01-690ccf206834849-66d3187d35e1.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/c39d4e206834849.66d3187d35653.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "catalog design Graphic Designer marketing",
+              "path": "projetos/gp-print-catalogo-de-produtos/imagens/05-01-c39d4e206834849-66d3187d3565.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/f5e43a206834849.66d3187d34d9b.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "catalog design Graphic Designer marketing",
+              "path": "projetos/gp-print-catalogo-de-produtos/imagens/06-01-f5e43a206834849-66d3187d34d9.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/5f2805206834849.66d3187d347ee.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "catalog design Graphic Designer marketing",
+              "path": "projetos/gp-print-catalogo-de-produtos/imagens/07-01-5f2805206834849-66d3187d347e.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/f0f6a5206834849.66d3187d365f3.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "catalog design Graphic Designer marketing",
+              "path": "projetos/gp-print-catalogo-de-produtos/imagens/08-01-f0f6a5206834849-66d3187d365f.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/03039d206834849.66d3187d36b6b.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "catalog design Graphic Designer marketing",
+              "path": "projetos/gp-print-catalogo-de-produtos/imagens/09-01-03039d206834849-66d3187d36b6.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/4df178206834849.66d3187d3737d.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "catalog design Graphic Designer marketing",
+              "path": "projetos/gp-print-catalogo-de-produtos/imagens/10-01-4df178206834849-66d3187d3737.webp"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 205511703,
@@ -314,7 +1329,82 @@
         }
       },
       "image": "portfolio/behance/205511703-cardapio-peapa.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/bfe04d205511703.Y3JvcCwxODk5LDE0ODUsMTE3MCwyODI.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/bfe04d205511703.Y3JvcCwxODk5LDE0ODUsMTE3MCwyODI.jpg",
+      "description": "Graphic Design, Product Design, Photography, Adobe Illustrator, Adobe Photoshop",
+      "localUrl": "projetos/cardapio-peapa/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/005e99205511703.66bc51232aaaf.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "menu Cardápio Restaurante Food  restaurant design",
+              "path": "projetos/cardapio-peapa/imagens/01-01-005e99205511703-66bc51232aaa.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/eb447d205511703.66bc51232a32b.jpg",
+              "width": 1400,
+              "height": 1064,
+              "alt": "menu Cardápio Restaurante Food  restaurant design",
+              "path": "projetos/cardapio-peapa/imagens/02-01-eb447d205511703-66bc51232a32.webp"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/7c8781205511703.66bc51222022b.jpg",
+              "width": 1200,
+              "height": 1696,
+              "alt": "",
+              "path": "projetos/cardapio-peapa/imagens/03-01-7c8781205511703-66bc51222022.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/4eaa1d205511703.66bc51221f6cf.jpg",
+              "width": 1200,
+              "height": 1696,
+              "alt": "",
+              "path": "projetos/cardapio-peapa/imagens/03-02-4eaa1d205511703-66bc51221f6c.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/42283c205511703.66bc51221fbc1.jpg",
+              "width": 1200,
+              "height": 1696,
+              "alt": "",
+              "path": "projetos/cardapio-peapa/imagens/03-03-42283c205511703-66bc51221fbc.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/3ec760205511703.66bc51221f038.jpg",
+              "width": 1200,
+              "height": 1696,
+              "alt": "",
+              "path": "projetos/cardapio-peapa/imagens/03-04-3ec760205511703-66bc51221f03.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/41c4b8205511703.66bc512220e9b.jpg",
+              "width": 1200,
+              "height": 1696,
+              "alt": "",
+              "path": "projetos/cardapio-peapa/imagens/03-05-41c4b8205511703-66bc512220e9.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/1e433e205511703.66bc512220873.jpg",
+              "width": 1200,
+              "height": 1696,
+              "alt": "",
+              "path": "projetos/cardapio-peapa/imagens/03-06-1e433e205511703-66bc51222087.webp"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 204262891,
@@ -363,7 +1453,80 @@
         }
       },
       "image": "portfolio/behance/204262891-gv-clear-materiais-graficos.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/bc3f42204262891.Y3JvcCwyMDczLDE2MjIsMTI2Nyw2OTM.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/bc3f42204262891.Y3JvcCwyMDczLDE2MjIsMTI2Nyw2OTM.jpg",
+      "description": "Graphic Design, Product Design, Advertising, Adobe Illustrator, Adobe Photoshop",
+      "localUrl": "projetos/gv-clear-materiais-graficos/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/46c4e7204262891.66a61a69e99dd.jpg",
+              "width": 1400,
+              "height": 933,
+              "alt": "graphic design  print Outdoor car catalog comercial presentation Van",
+              "path": "projetos/gv-clear-materiais-graficos/imagens/01-01-46c4e7204262891-66a61a69e99d.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/8d3783204262891.66a61a69e9f4c.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "graphic design  print Outdoor car catalog comercial presentation Van",
+              "path": "projetos/gv-clear-materiais-graficos/imagens/02-01-8d3783204262891-66a61a69e9f4.webp"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/eee61e204262891.66a61a68608ce.jpg",
+              "width": 3840,
+              "height": 2273,
+              "alt": "",
+              "path": "projetos/gv-clear-materiais-graficos/imagens/03-01-eee61e204262891-66a61a68608c.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/8f29b7204262891.66a61a68600f3.jpg",
+              "width": 3840,
+              "height": 2373,
+              "alt": "",
+              "path": "projetos/gv-clear-materiais-graficos/imagens/03-02-8f29b7204262891-66a61a68600f.webp"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/bde4c2204262891.66a61a692c09c.jpg",
+              "width": 3840,
+              "height": 2235,
+              "alt": "",
+              "path": "projetos/gv-clear-materiais-graficos/imagens/04-01-bde4c2204262891-66a61a692c09.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/fb8c96204262891.66a61a692ce1b.jpg",
+              "width": 3840,
+              "height": 2481,
+              "alt": "",
+              "path": "projetos/gv-clear-materiais-graficos/imagens/04-02-fb8c96204262891-66a61a692ce1.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/d9ef47204262891.66a61a692c650.jpg",
+              "width": 3840,
+              "height": 2880,
+              "alt": "",
+              "path": "projetos/gv-clear-materiais-graficos/imagens/04-03-d9ef47204262891-66a61a692c65.webp"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 204249021,
@@ -412,7 +1575,235 @@
         }
       },
       "image": "portfolio/behance/204249021-galindo-cavalcanti-advocacia-branding-video.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/d85106204249021.Y3JvcCwxMzgwLDEwODAsMzA3LDA.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/d85106204249021.Y3JvcCwxMzgwLDEwODAsMzA3LDA.jpg",
+      "description": "Graphic Design, Advertising, Product Design, Adobe Photoshop, Adobe Illustrator, Adobe After Effects, Adobe Premiere Pro, Google Slides",
+      "localUrl": "projetos/galindo-cavalcanti-advocacia-branding-video/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/a54e3e204249021.66a604e35fdd9.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "advogado identidade visual Logo Design brand identity marketing   Photography  motion design Video Editing",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/01-01-a54e3e204249021-66a604e35fdd.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/0997ab204249021.66a604e35eecc.jpg",
+              "width": 1400,
+              "height": 806,
+              "alt": "advogado identidade visual Logo Design brand identity marketing   Photography  motion design Video Editing",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/02-01-0997ab204249021-66a604e35eec.webp"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/f37edf204249021.66a604e119c5c.jpg",
+              "width": 2953,
+              "height": 2953,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/03-01-f37edf204249021-66a604e119c5.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/a44aa4204249021.66a604e11b9b5.jpg",
+              "width": 2953,
+              "height": 2953,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/03-02-a44aa4204249021-66a604e11b9b.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/7bf19a204249021.66a604e11a9ec.jpg",
+              "width": 2953,
+              "height": 2953,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/03-03-7bf19a204249021-66a604e11a9e.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/ff232e204249021.66a604e11a4d5.jpg",
+              "width": 2953,
+              "height": 2953,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/03-04-ff232e204249021-66a604e11a4d.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/b49c20204249021.66a604e11b1ac.jpg",
+              "width": 2953,
+              "height": 2953,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/03-05-b49c20204249021-66a604e11b1a.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/ee9648204249021.66a607abdcf6f.jpg",
+              "width": 3840,
+              "height": 2356,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/03-06-ee9648204249021-66a607abdcf6.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/c7d406204249021.66a604e35f746.jpg",
+              "width": 1400,
+              "height": 700,
+              "alt": "advogado identidade visual Logo Design brand identity marketing   Photography  motion design Video Editing",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/04-01-c7d406204249021-66a604e35f74.webp"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/a4b5c8204249021.66a5ab756643f.jpg",
+              "width": 1400,
+              "height": 788,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/05-01-a4b5c8204249021-66a5ab756643.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/1f2baf204249021.66a5ab75684d6.jpg",
+              "width": 1400,
+              "height": 788,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/05-02-1f2baf204249021-66a5ab75684d.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/d41951204249021.66a5ab7569798.jpg",
+              "width": 1400,
+              "height": 788,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/05-03-d41951204249021-66a5ab756979.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/552694204249021.66a5ab7565d01.jpg",
+              "width": 1400,
+              "height": 788,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/05-04-552694204249021-66a5ab7565d0.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/2034c2204249021.66a5ab7567211.jpg",
+              "width": 1400,
+              "height": 788,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/05-05-2034c2204249021-66a5ab756721.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/c21ec5204249021.66a5ab756930c.jpg",
+              "width": 1400,
+              "height": 788,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/05-06-c21ec5204249021-66a5ab756930.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/fcb52c204249021.66a5ab756ccfb.jpg",
+              "width": 1400,
+              "height": 788,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/05-07-fcb52c204249021-66a5ab756ccf.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/2630fd204249021.66a5ab7567913.jpg",
+              "width": 1400,
+              "height": 788,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/05-08-2630fd204249021-66a5ab756791.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/968a13204249021.66a5ab756b246.jpg",
+              "width": 1400,
+              "height": 788,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/05-09-968a13204249021-66a5ab756b24.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/4f10c3204249021.66a5ab756ab1c.jpg",
+              "width": 1400,
+              "height": 788,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/05-10-4f10c3204249021-66a5ab756ab1.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/248750204249021.66a5ab7566b2c.jpg",
+              "width": 1400,
+              "height": 788,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/05-11-248750204249021-66a5ab7566b2.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/16dffc204249021.66a5ab7567d5f.jpg",
+              "width": 1400,
+              "height": 788,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/05-12-16dffc204249021-66a5ab7567d5.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/4f30e5204249021.66a5ab7569ed0.jpg",
+              "width": 1400,
+              "height": 788,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/05-13-4f30e5204249021-66a5ab7569ed.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/cfde49204249021.66a5ab756c586.jpg",
+              "width": 1400,
+              "height": 788,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/05-14-cfde49204249021-66a5ab756c58.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/8bba1d204249021.66a5ab756a646.jpg",
+              "width": 1400,
+              "height": 788,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/05-15-8bba1d204249021-66a5ab756a64.webp"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/4fcf87204249021.66a604e001123.jpg",
+              "width": 3000,
+              "height": 2250,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/06-01-4fcf87204249021-66a604e00112.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/fe866f204249021.66a604e000785.jpg",
+              "width": 3000,
+              "height": 2250,
+              "alt": "",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/06-02-fe866f204249021-66a604e00078.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/3c9e89204249021.66a604e3604e6.jpg",
+              "width": 1400,
+              "height": 787,
+              "alt": "advogado identidade visual Logo Design brand identity marketing   Photography  motion design Video Editing",
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/07-01-3c9e89204249021-66a604e3604e.jpg"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 202593863,
@@ -451,7 +1842,149 @@
         }
       },
       "image": "portfolio/behance/202593863-branding-manga-music-studio.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/0d7b3d202593863.Y3JvcCw4MzQsNjUyLDYsMTIz.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/0d7b3d202593863.Y3JvcCw4MzQsNjUyLDYsMTIz.jpg",
+      "description": "Logo Design, Adobe Illustrator, Adobe Photoshop, freepik",
+      "localUrl": "projetos/branding-manga-music-studio/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/5c0752202593863.66a5478b42c71.jpg",
+              "width": 1400,
+              "height": 854,
+              "alt": "studio branding  music business",
+              "path": "projetos/branding-manga-music-studio/imagens/01-01-5c0752202593863-66a5478b42c7.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/9af6a5202593863.66a543bf8d0f5.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "studio branding  music business",
+              "path": "projetos/branding-manga-music-studio/imagens/02-01-9af6a5202593863-66a543bf8d0f.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/9ce547202593863.66a5467963d0e.jpg",
+              "width": 1400,
+              "height": 472,
+              "alt": "studio branding  music business",
+              "path": "projetos/branding-manga-music-studio/imagens/03-01-9ce547202593863-66a5467963d0.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/12ef69202593863.66a543bf8df9a.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "studio branding  music business",
+              "path": "projetos/branding-manga-music-studio/imagens/04-01-12ef69202593863-66a543bf8df9.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/969e58202593863.66a543bf8d84c.jpg",
+              "width": 1400,
+              "height": 933,
+              "alt": "studio branding  music business",
+              "path": "projetos/branding-manga-music-studio/imagens/05-01-969e58202593863-66a543bf8d84.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/5d8f29202593863.66a543bf8e70e.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "studio branding  music business",
+              "path": "projetos/branding-manga-music-studio/imagens/06-01-5d8f29202593863-66a543bf8e70.webp"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/403f66202593863.66a54993cc037.jpg",
+              "width": 2850,
+              "height": 6087,
+              "alt": "",
+              "path": "projetos/branding-manga-music-studio/imagens/07-01-403f66202593863-66a54993cc03.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/92dd64202593863.66a54993cb188.jpg",
+              "width": 2849,
+              "height": 6087,
+              "alt": "",
+              "path": "projetos/branding-manga-music-studio/imagens/07-02-92dd64202593863-66a54993cb18.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/a144d1202593863.66a54993cc9c1.jpg",
+              "width": 2850,
+              "height": 6087,
+              "alt": "",
+              "path": "projetos/branding-manga-music-studio/imagens/07-03-a144d1202593863-66a54993cc9c.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/33635c202593863.66a54993cb905.jpg",
+              "width": 2850,
+              "height": 6087,
+              "alt": "",
+              "path": "projetos/branding-manga-music-studio/imagens/07-04-33635c202593863-66a54993cb90.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/1d0242202593863.66a5e701f21ff.jpg",
+              "width": 1200,
+              "height": 2564,
+              "alt": "",
+              "path": "projetos/branding-manga-music-studio/imagens/07-05-1d0242202593863-66a5e701f21f.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/821a41202593863.66a5e701f1dcb.jpg",
+              "width": 1200,
+              "height": 2564,
+              "alt": "",
+              "path": "projetos/branding-manga-music-studio/imagens/07-06-821a41202593863-66a5e701f1dc.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/7adb03202593863.66a5e701f193b.jpg",
+              "width": 1200,
+              "height": 2566,
+              "alt": "",
+              "path": "projetos/branding-manga-music-studio/imagens/07-07-7adb03202593863-66a5e701f193.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/bd5990202593863.66a543bf8f072.jpg",
+              "width": 1400,
+              "height": 2530,
+              "alt": "studio branding  music business",
+              "path": "projetos/branding-manga-music-studio/imagens/08-01-bd5990202593863-66a543bf8f07.webp"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 202593021,
@@ -490,7 +2023,83 @@
         }
       },
       "image": "portfolio/behance/202593021-site-e-e-commerce-responsivo-surf-print.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/04c853202593021.Y3JvcCwzMjc4LDI1NjQsMzU3LDIxOQ.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/04c853202593021.Y3JvcCwzMjc4LDI1NjQsMzU3LDIxOQ.jpg",
+      "description": "Web Design, WordPress, Elementor Pro, WooCommerce",
+      "localUrl": "projetos/site-e-e-commerce-responsivo-surf-print/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/635edc202593021.66a55b9a9b66b.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "surfing wordpress elementor pro Web Design  ux/ui",
+              "path": "projetos/site-e-e-commerce-responsivo-surf-print/imagens/01-01-635edc202593021-66a55b9a9b66.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/598520202593021.66a55b9a9c293.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "surfing wordpress elementor pro Web Design  ux/ui",
+              "path": "projetos/site-e-e-commerce-responsivo-surf-print/imagens/02-01-598520202593021-66a55b9a9c29.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/f70a0c202593021.66a55b9a9bc45.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "surfing wordpress elementor pro Web Design  ux/ui",
+              "path": "projetos/site-e-e-commerce-responsivo-surf-print/imagens/03-01-f70a0c202593021-66a55b9a9bc4.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/ab5c8f202593021.66a55b9a9d0eb.jpg",
+              "width": 1400,
+              "height": 700,
+              "alt": "surfing wordpress elementor pro Web Design  ux/ui",
+              "path": "projetos/site-e-e-commerce-responsivo-surf-print/imagens/04-01-ab5c8f202593021-66a55b9a9d0e.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/2ff59d202593021.66a55b9a9c987.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "surfing wordpress elementor pro Web Design  ux/ui",
+              "path": "projetos/site-e-e-commerce-responsivo-surf-print/imagens/05-01-2ff59d202593021-66a55b9a9c98.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/d2ef78202593021.66a55be13d7e5.jpg",
+              "width": 1400,
+              "height": 4261,
+              "alt": "surfing wordpress elementor pro Web Design  ux/ui",
+              "path": "projetos/site-e-e-commerce-responsivo-surf-print/imagens/06-01-d2ef78202593021-66a55be13d7e.webp"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 28373747,
@@ -529,7 +2138,143 @@
         }
       },
       "image": "portfolio/behance/28373747-a-aula-animacao-de-comdia.png",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/0552c828373747.Y3JvcCw4MTgsNjQwLDQ4LDM0.png"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/0552c828373747.Y3JvcCw4MTgsNjQwLDQ4LDM0.png",
+      "description": "'A Aula' é uma animação ritmada que retrata o universo de uma sala de aula e seus estereótipos.O objetivo deste projeto é ilustrar com uma crítica divertida os personagens clássicos que, apesar de toda evolução tecnológica, ainda persistem no ambiente es...",
+      "localUrl": "projetos/a-aula-animacao-de-comdia/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/87001528373747.55bc774951d13.png",
+              "width": 1200,
+              "height": 619,
+              "alt": "A Aula escola alien nave animamundi Maytee Film Festival",
+              "path": "projetos/a-aula-animacao-de-comdia/imagens/01-01-87001528373747-55bc774951d13.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/43f57b28373747.55bc77495986b.png",
+              "width": 1200,
+              "height": 621,
+              "alt": "A Aula escola alien nave animamundi Maytee Film Festival",
+              "path": "projetos/a-aula-animacao-de-comdia/imagens/02-01-43f57b28373747-55bc77495986b.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/dbc0c128373747.55bc7749559c7.png",
+              "width": 1200,
+              "height": 677,
+              "alt": "A Aula escola alien nave animamundi Maytee Film Festival",
+              "path": "projetos/a-aula-animacao-de-comdia/imagens/03-01-dbc0c128373747-55bc7749559c7.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/f0415628373747.55bc77495341d.png",
+              "width": 1200,
+              "height": 677,
+              "alt": "A Aula escola alien nave animamundi Maytee Film Festival",
+              "path": "projetos/a-aula-animacao-de-comdia/imagens/04-01-f0415628373747-55bc77495341d.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/65316428373747.55bc7749546e9.png",
+              "width": 1200,
+              "height": 677,
+              "alt": "A Aula escola alien nave animamundi Maytee Film Festival",
+              "path": "projetos/a-aula-animacao-de-comdia/imagens/05-01-65316428373747-55bc7749546e9.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/d581d928373747.55bc774950557.png",
+              "width": 1200,
+              "height": 676,
+              "alt": "A Aula escola alien nave animamundi Maytee Film Festival",
+              "path": "projetos/a-aula-animacao-de-comdia/imagens/06-01-d581d928373747-55bc774950557.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/88fd2f28373747.55bc774958091.png",
+              "width": 1200,
+              "height": 620,
+              "alt": "A Aula escola alien nave animamundi Maytee Film Festival",
+              "path": "projetos/a-aula-animacao-de-comdia/imagens/07-01-88fd2f28373747-55bc774958091.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/f704a428373747.55bc774956ddc.png",
+              "width": 1200,
+              "height": 677,
+              "alt": "A Aula escola alien nave animamundi Maytee Film Festival",
+              "path": "projetos/a-aula-animacao-de-comdia/imagens/08-01-f704a428373747-55bc774956ddc.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/091ed428373747.55bc77495af0f.jpg",
+              "width": 1200,
+              "height": 723,
+              "alt": "A Aula escola alien nave animamundi Maytee Film Festival",
+              "path": "projetos/a-aula-animacao-de-comdia/imagens/09-01-091ed428373747-55bc77495af0f.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/1f0f0928373747.55bc77495c26e.jpg",
+              "width": 1200,
+              "height": 887,
+              "alt": "A Aula escola alien nave animamundi Maytee Film Festival",
+              "path": "projetos/a-aula-animacao-de-comdia/imagens/10-01-1f0f0928373747-55bc77495c26e.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/bb6d7d28373747.55bc81e10e047.jpg",
+              "width": 1186,
+              "height": 768,
+              "alt": "A Aula escola alien nave animamundi Maytee Film Festival",
+              "path": "projetos/a-aula-animacao-de-comdia/imagens/11-01-bb6d7d28373747-55bc81e10e047.webp"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 145176959,
@@ -578,7 +2323,136 @@
         }
       },
       "image": "portfolio/behance/145176959-surf-print-design-para-equipamentos-de-surf.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/4f98da145176959.Y3JvcCwxNDAwLDEwOTUsMCwxMw.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/4f98da145176959.Y3JvcCwxNDAwLDEwOTUsMCwxMw.jpg",
+      "description": "Graphic Design, Product Design, Illustration, Adobe Photoshop, Adobe Illustrator",
+      "localUrl": "projetos/surf-print-design-para-equipamentos-de-surf/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/75350d145176959.66a55cd025d19.jpg",
+              "width": 1004,
+              "height": 571,
+              "alt": "artwork beach Digital Art  digital illustration Drawing  graphic design  Ocean sea summer surfing",
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/01-01-75350d145176959-66a55cd025d1.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/9053c7145176959.62996ead4f04b.jpg",
+              "width": 1400,
+              "height": 1120,
+              "alt": "artwork beach Digital Art  digital illustration Drawing  graphic design  Ocean sea summer surfing",
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/02-01-9053c7145176959-62996ead4f04.jpg"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/849fa6145176959.66a55dea0e585.jpg",
+              "width": 1200,
+              "height": 969,
+              "alt": "",
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-01-849fa6145176959-66a55dea0e58.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/3e802a145176959.66a55dea0e0b6.jpg",
+              "width": 1200,
+              "height": 969,
+              "alt": "",
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-02-3e802a145176959-66a55dea0e0b.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/b46da4145176959.66a55dea0f624.jpg",
+              "width": 1200,
+              "height": 969,
+              "alt": "",
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-03-b46da4145176959-66a55dea0f62.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/6b817f145176959.66a55dea10cf1.jpg",
+              "width": 1200,
+              "height": 969,
+              "alt": "",
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-04-6b817f145176959-66a55dea10cf.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/84a69f145176959.66a55dea111a0.jpg",
+              "width": 1200,
+              "height": 969,
+              "alt": "",
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-05-84a69f145176959-66a55dea111a.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/ce6cdb145176959.66a55dea101a4.jpg",
+              "width": 2789,
+              "height": 2251,
+              "alt": "",
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-06-ce6cdb145176959-66a55dea101a.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/f46246145176959.66a55dea0f139.jpg",
+              "width": 2789,
+              "height": 2251,
+              "alt": "",
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-07-f46246145176959-66a55dea0f13.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/c47d3e145176959.66a55dea0ec6b.jpg",
+              "width": 2789,
+              "height": 2251,
+              "alt": "",
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-08-c47d3e145176959-66a55dea0ec6.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/eff6a8145176959.66a55dea0fc9f.jpg",
+              "width": 1200,
+              "height": 969,
+              "alt": "",
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-09-eff6a8145176959-66a55dea0fc9.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/b6658d145176959.66a55dea0dbd3.jpg",
+              "width": 1200,
+              "height": 969,
+              "alt": "",
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-10-b6658d145176959-66a55dea0dbd.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/b15971145176959.66a55dea0d6f7.jpg",
+              "width": 2789,
+              "height": 2251,
+              "alt": "",
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-11-b15971145176959-66a55dea0d6f.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/a591cb145176959.66a55dea1068e.jpg",
+              "width": 2789,
+              "height": 2251,
+              "alt": "",
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-12-a591cb145176959-66a55dea1068.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/0eed84145176959.62996cb4cf530.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "artwork beach Digital Art  digital illustration Drawing  graphic design  Ocean sea summer surfing",
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/04-01-0eed84145176959-62996cb4cf53.jpg"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 145173457,
@@ -617,7 +2491,126 @@
         }
       },
       "image": "portfolio/behance/145173457-tita-therapy-storyboard-e-animacao-institucional.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/f03339145173457.Y3JvcCwyNDI0LDE4OTYsNTEwLDI1Mg.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/f03339145173457.Y3JvcCwyNDI0LDE4OTYsNTEwLDI1Mg.jpg",
+      "description": "Animation, Adobe After Effects, Adobe Premiere Pro, Adobe Illustrator",
+      "localUrl": "projetos/tita-therapy-storyboard-e-animacao-institucional/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/c4f7dd145173457.66ba68333bf7e.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "adobe illustrator after effects animation  cartoon Character design  digital illustration storyboard storytelling   vector video making",
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/01-01-c4f7dd145173457-66ba68333bf7.webp"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/dab1dd145173457.66a5a5776b5b0.jpg",
+              "width": 3840,
+              "height": 2892,
+              "alt": "",
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-01-dab1dd145173457-66a5a5776b5b.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/7fbecf145173457.66a5a57768547.jpg",
+              "width": 3840,
+              "height": 2892,
+              "alt": "",
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-02-7fbecf145173457-66a5a5776854.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/53fb17145173457.66a5a5776a91f.jpg",
+              "width": 3840,
+              "height": 2892,
+              "alt": "",
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-03-53fb17145173457-66a5a5776a91.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/9ca9fc145173457.66a5a5776b0be.jpg",
+              "width": 3840,
+              "height": 2892,
+              "alt": "",
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-04-9ca9fc145173457-66a5a5776b0b.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/d4059b145173457.66a5a57766e6e.jpg",
+              "width": 3840,
+              "height": 2892,
+              "alt": "",
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-05-d4059b145173457-66a5a57766e6.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/3412b8145173457.66a5a5776763d.jpg",
+              "width": 3840,
+              "height": 2892,
+              "alt": "",
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-06-3412b8145173457-66a5a5776763.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/c4a2b1145173457.66a5a5776975c.jpg",
+              "width": 3840,
+              "height": 2892,
+              "alt": "",
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-07-c4a2b1145173457-66a5a5776975.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/8f613c145173457.66a5a57769f1d.jpg",
+              "width": 3840,
+              "height": 2892,
+              "alt": "",
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-08-8f613c145173457-66a5a57769f1.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/0a4fa2145173457.66a5a57768fec.jpg",
+              "width": 3840,
+              "height": 2892,
+              "alt": "",
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-09-0a4fa2145173457-66a5a57768fe.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/f5a2b5145173457.66a5a5776bd3c.jpg",
+              "width": 3840,
+              "height": 2892,
+              "alt": "",
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-10-f5a2b5145173457-66a5a5776bd3.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/8aaa18145173457.66a5a5776a41a.jpg",
+              "width": 3840,
+              "height": 2892,
+              "alt": "",
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-11-8aaa18145173457-66a5a5776a41.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/90c538145173457.66a5a57767dcb.jpg",
+              "width": 3840,
+              "height": 2892,
+              "alt": "",
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-12-90c538145173457-66a5a57767dc.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/7077d4145173457.66a5a5776c9ff.jpg",
+              "width": 3840,
+              "height": 2892,
+              "alt": "",
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-13-7077d4145173457-66a5a5776c9f.jpg"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/996403145173457.66a5a5776c261.jpg",
+              "width": 3840,
+              "height": 2892,
+              "alt": "",
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-14-996403145173457-66a5a5776c26.jpg"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 145172355,
@@ -656,7 +2649,47 @@
         }
       },
       "image": "portfolio/behance/145172355-cartao-de-visita-solo-solar.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/8dfe3f145172355.Y3JvcCwyNTU2LDIwMDAsMjIxLDA.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/8dfe3f145172355.Y3JvcCwyNTU2LDIwMDAsMjIxLDA.jpg",
+      "description": "Graphic Design, Adobe Illustrator, Adobe Photoshop",
+      "localUrl": "projetos/cartao-de-visita-solo-solar/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/9c45bd145172355.629933b1b4b7d.jpg",
+              "width": 1075,
+              "height": 604,
+              "alt": "Advertising  design design gráfico designer marketing",
+              "path": "projetos/cartao-de-visita-solo-solar/imagens/01-01-9c45bd145172355-629933b1b4b7.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/af6830145172355.629933b1b5269.jpg",
+              "width": 1076,
+              "height": 604,
+              "alt": "Advertising  design design gráfico designer marketing",
+              "path": "projetos/cartao-de-visita-solo-solar/imagens/02-01-af6830145172355-629933b1b526.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/9cbe9a145172355.629931fb63f00.jpg",
+              "width": 1400,
+              "height": 933,
+              "alt": "Advertising  design design gráfico designer marketing",
+              "path": "projetos/cartao-de-visita-solo-solar/imagens/03-01-9cbe9a145172355-629931fb63f0.webp"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 145171157,
@@ -705,7 +2738,135 @@
         }
       },
       "image": "portfolio/behance/145171157-convite-de-casamento-julita-e-diogo.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/80d814145171157.Y3JvcCwzODM1LDMwMDAsODUsMA.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/80d814145171157.Y3JvcCwzODM1LDMwMDAsODUsMA.jpg",
+      "description": "Product Design, Graphic Design, Illustration, Adobe Illustrator, Adobe Photoshop",
+      "localUrl": "projetos/convite-de-casamento-julita-e-diogo/",
+      "modules": [
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/d3f736145171157.66ba1df1aa605.jpg",
+              "width": 3840,
+              "height": 6825,
+              "alt": "",
+              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/01-01-d3f736145171157-66ba1df1aa60.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/48da16145171157.66ba1df1a9083.jpg",
+              "width": 3840,
+              "height": 6825,
+              "alt": "",
+              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/01-02-48da16145171157-66ba1df1a908.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/d7d828145171157.66ba1df1a88c9.jpg",
+              "width": 3840,
+              "height": 6827,
+              "alt": "",
+              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/01-03-d7d828145171157-66ba1df1a88c.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/9cfdf2145171157.66ba1df1aad85.jpg",
+              "width": 3840,
+              "height": 6825,
+              "alt": "",
+              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/01-04-9cfdf2145171157-66ba1df1aad8.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/eda77c145171157.66ba1df1aa117.jpg",
+              "width": 3840,
+              "height": 6825,
+              "alt": "",
+              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/01-05-eda77c145171157-66ba1df1aa11.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/6df097145171157.66ba355ed5f33.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "card design Event Invitation wedding Mockup graphic design",
+              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/02-01-6df097145171157-66ba355ed5f3.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e3be43145171157.66ba355ed659f.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "card design Event Invitation wedding Mockup graphic design",
+              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/03-01-e3be43145171157-66ba355ed659.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/86294f145171157.66ba2fdf953e8.jpg",
+              "width": 1400,
+              "height": 1167,
+              "alt": "card design Event Invitation wedding Mockup graphic design",
+              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/04-01-86294f145171157-66ba2fdf953e.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/aeac74145171157.66ba2fdf9610c.jpg",
+              "width": 1400,
+              "height": 891,
+              "alt": "card design Event Invitation wedding Mockup graphic design",
+              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/05-01-aeac74145171157-66ba2fdf9610.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/d0cc7d145171157.66ba2fdf958b4.jpg",
+              "width": 1400,
+              "height": 891,
+              "alt": "card design Event Invitation wedding Mockup graphic design",
+              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/06-01-d0cc7d145171157-66ba2fdf958b.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/51265c145171157.66ba355ed6b9f.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "card design Event Invitation wedding Mockup graphic design",
+              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/07-01-51265c145171157-66ba355ed6b9.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/4b6c2a145171157.66ba355ed718d.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "card design Event Invitation wedding Mockup graphic design",
+              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/08-01-4b6c2a145171157-66ba355ed718.jpg"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 145170699,
@@ -713,17 +2874,17 @@
       "slug": "Remocao-de-pessoas-de-fotos-turisticas",
       "url": "https://www.behance.net/gallery/145170699/Remocao-de-pessoas-de-fotos-turisticas",
       "publishedOn": 1654204953,
-      "modifiedOn": 1723491658,
+      "modifiedOn": 1783701006,
       "fields": [
-        {
-          "id": 79,
-          "label": "Product Design",
-          "slug": "Product Design"
-        },
         {
           "id": 44,
           "label": "Graphic Design",
           "slug": "Graphic Design"
+        },
+        {
+          "id": 79,
+          "label": "Product Design",
+          "slug": "Product Design"
         }
       ],
       "covers": {
@@ -749,7 +2910,54 @@
         }
       },
       "image": "portfolio/behance/145170699-remocao-de-pessoas-de-fotos-turisticas.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/32c8f4145170699.Y3JvcCw5MTYsNzE2LDI1MSwxOTI.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/32c8f4145170699.Y3JvcCw5MTYsNzE2LDI1MSwxOTI.jpg",
+      "description": "Graphic Design, Product Design, Adobe Photoshop",
+      "localUrl": "projetos/remocao-de-pessoas-de-fotos-turisticas/",
+      "modules": [
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/999d22145170699.66ba651b75dc8.jpg",
+              "width": 789,
+              "height": 1331,
+              "alt": "",
+              "path": "projetos/remocao-de-pessoas-de-fotos-turisticas/imagens/01-01-999d22145170699-66ba651b75dc.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/6332c9145170699.66ba651b7572b.jpg",
+              "width": 789,
+              "height": 1331,
+              "alt": "",
+              "path": "projetos/remocao-de-pessoas-de-fotos-turisticas/imagens/01-02-6332c9145170699-66ba651b7572.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/2df783145170699.66ba651c5292b.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "designer Digital Art  Editing  person Photography  photoshop portfolio woman",
+              "path": "projetos/remocao-de-pessoas-de-fotos-turisticas/imagens/02-01-2df783145170699-66ba651c5292.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/5abd7f145170699.66ba651c52323.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "designer Digital Art  Editing  person Photography  photoshop portfolio woman",
+              "path": "projetos/remocao-de-pessoas-de-fotos-turisticas/imagens/03-01-5abd7f145170699-66ba651c5232.webp"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 134315163,
@@ -788,7 +2996,54 @@
         }
       },
       "image": "portfolio/behance/134315163-restauracao-de-foto-antiga.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/3e5ac1134315163.Y3JvcCw5NjIsNzUyLDIzMywxNDc.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/3e5ac1134315163.Y3JvcCw5NjIsNzUyLDIzMywxNDc.jpg",
+      "description": "Photography, Adobe Photoshop",
+      "localUrl": "projetos/restauracao-de-foto-antiga/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/56ed07134315163.66ba65bf2fdad.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "human face old photo Photography  portrait restoration Retro vintage",
+              "path": "projetos/restauracao-de-foto-antiga/imagens/01-01-56ed07134315163-66ba65bf2fda.jpg"
+            }
+          ]
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/6a35ed134315163.66ba65bea0b75.jpg",
+              "width": 2313,
+              "height": 2721,
+              "alt": "",
+              "path": "projetos/restauracao-de-foto-antiga/imagens/02-01-6a35ed134315163-66ba65bea0b7.webp"
+            },
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/827047134315163.66ba65bea1296.jpg",
+              "width": 2313,
+              "height": 2721,
+              "alt": "",
+              "path": "projetos/restauracao-de-foto-antiga/imagens/02-02-827047134315163-66ba65bea129.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/28b6de134315163.66ba65bf2f637.jpg",
+              "width": 1400,
+              "height": 1050,
+              "alt": "human face old photo Photography  portrait restoration Retro vintage",
+              "path": "projetos/restauracao-de-foto-antiga/imagens/03-01-28b6de134315163-66ba65bf2f63.jpg"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 133604879,
@@ -827,7 +3082,107 @@
         }
       },
       "image": "portfolio/behance/133604879-np-new-style-identidade-visual.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/965008133604879.Y3JvcCwxMDUyLDgyMiwzMSww.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/965008133604879.Y3JvcCwxMDUyLDgyMiwzMSww.jpg",
+      "description": "Graphic Design",
+      "localUrl": "projetos/np-new-style-identidade-visual/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/c4250a133604879.61c1a55763b27.jpg",
+              "width": 1400,
+              "height": 935,
+              "alt": "adobe illustrator brand identity design Graphic Designer graphics logo Logo Design Logotipo Logotype vector",
+              "path": "projetos/np-new-style-identidade-visual/imagens/01-01-c4250a133604879-61c1a55763b2.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/35ed1e133604879.61c1a5576360b.jpg",
+              "width": 1183,
+              "height": 1182,
+              "alt": "adobe illustrator brand identity design Graphic Designer graphics logo Logo Design Logotipo Logotype vector",
+              "path": "projetos/np-new-style-identidade-visual/imagens/02-01-35ed1e133604879-61c1a5576360.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/e14df0133604879.61c1a557641b3.jpg",
+              "width": 1182,
+              "height": 1182,
+              "alt": "adobe illustrator brand identity design Graphic Designer graphics logo Logo Design Logotipo Logotype vector",
+              "path": "projetos/np-new-style-identidade-visual/imagens/03-01-e14df0133604879-61c1a557641b.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/43bf60133604879.61c1a55765716.jpg",
+              "width": 1400,
+              "height": 936,
+              "alt": "adobe illustrator brand identity design Graphic Designer graphics logo Logo Design Logotipo Logotype vector",
+              "path": "projetos/np-new-style-identidade-visual/imagens/04-01-43bf60133604879-61c1a5576571.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/d79a47133604879.61c1a55764ae7.jpg",
+              "width": 1182,
+              "height": 1780,
+              "alt": "adobe illustrator brand identity design Graphic Designer graphics logo Logo Design Logotipo Logotype vector",
+              "path": "projetos/np-new-style-identidade-visual/imagens/05-01-d79a47133604879-61c1a55764ae.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/d46a9a133604879.61c1a55764695.jpg",
+              "width": 1400,
+              "height": 936,
+              "alt": "adobe illustrator brand identity design Graphic Designer graphics logo Logo Design Logotipo Logotype vector",
+              "path": "projetos/np-new-style-identidade-visual/imagens/06-01-d46a9a133604879-61c1a5576469.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/16be48133604879.61c1a55765bf5.jpg",
+              "width": 1400,
+              "height": 2056,
+              "alt": "adobe illustrator brand identity design Graphic Designer graphics logo Logo Design Logotipo Logotype vector",
+              "path": "projetos/np-new-style-identidade-visual/imagens/07-01-16be48133604879-61c1a55765bf.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/d1ed63133604879.61c1a5576508a.jpg",
+              "width": 1400,
+              "height": 1958,
+              "alt": "adobe illustrator brand identity design Graphic Designer graphics logo Logo Design Logotipo Logotype vector",
+              "path": "projetos/np-new-style-identidade-visual/imagens/08-01-d1ed63133604879-61c1a5576508.webp"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 121462677,
@@ -871,7 +3226,23 @@
         }
       },
       "image": "portfolio/behance/121462677-pizza-board-for-wall.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/a8a5b9121462677.Y3JvcCw3MjQ4LDU2NzAsNjI4LDA.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/a8a5b9121462677.Y3JvcCw3MjQ4LDU2NzAsNjI4LDA.jpg",
+      "description": "Illustration, Graphic Design, Adobe Illustrator",
+      "localUrl": "projetos/pizza-board-for-wall/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/2efde1121462677.60c6b874a0126.jpg",
+              "width": 1400,
+              "height": 933,
+              "alt": "black Board chalk Food  Pizza",
+              "path": "projetos/pizza-board-for-wall/imagens/01-01-2efde1121462677-60c6b874a012.jpg"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 120913105,
@@ -920,7 +3291,23 @@
         }
       },
       "image": "portfolio/behance/120913105-explorando-o-espaco.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/f06cd5120913105.Y3JvcCw0MDc4LDMxOTAsNDAsMA.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/f06cd5120913105.Y3JvcCw0MDc4LDMxOTAsNDAsMA.jpg",
+      "description": "Music, Editing, Illustration, Guitar, Fruity Loops/FL Studio, Adobe Photoshop",
+      "localUrl": "projetos/explorando-o-espaco/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/5face2120913105.60bb1cae8c635.jpg",
+              "width": 1400,
+              "height": 1074,
+              "alt": "dubstep edm guitar metal music soundtrack",
+              "path": "projetos/explorando-o-espaco/imagens/01-01-5face2120913105-60bb1cae8c63.jpg"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 120912237,
@@ -969,7 +3356,23 @@
         }
       },
       "image": "portfolio/behance/120912237-transformacao-social-na-pratica.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/546c23120912237.Y3JvcCwzNjEyLDI4MjUsMCwyMzg3.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/546c23120912237.Y3JvcCwzNjEyLDI4MjUsMCwyMzg3.jpg",
+      "description": "Graphic Design, Illustration, Product Design, Adobe Photoshop, Fruity Loops/FL Studio",
+      "localUrl": "projetos/transformacao-social-na-pratica/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/7ff0f3120912237.60bb1560b1512.jpg",
+              "width": 1400,
+              "height": 2057,
+              "alt": "audio visualizer audiobook book cover mindset music Reading social Transformation volunteer",
+              "path": "projetos/transformacao-social-na-pratica/imagens/01-01-7ff0f3120912237-60bb1560b151.jpg"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 120911061,
@@ -1018,7 +3421,107 @@
         }
       },
       "image": "portfolio/behance/120911061-identidade-visual-don-cha-ice-tea.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/359c42120911061.Y3JvcCw5MzgsNzM0LDQ4LDE2.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/359c42120911061.Y3JvcCw5MzgsNzM0LDQ4LDE2.jpg",
+      "description": "Graphic Design, Illustration, Product Design, Adobe Illustrator",
+      "localUrl": "projetos/identidade-visual-don-cha-ice-tea/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/08899e120911061.60bb109f7d743.jpg",
+              "width": 1080,
+              "height": 1080,
+              "alt": "artesanal don cha drink FIT Health ice tea natural",
+              "path": "projetos/identidade-visual-don-cha-ice-tea/imagens/01-01-08899e120911061-60bb109f7d74.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/febebc120911061.60bb109f7ed79.jpg",
+              "width": 1080,
+              "height": 1080,
+              "alt": "artesanal don cha drink FIT Health ice tea natural",
+              "path": "projetos/identidade-visual-don-cha-ice-tea/imagens/02-01-febebc120911061-60bb109f7ed7.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/1a2b1b120911061.60bb109f7e2e3.jpg",
+              "width": 1080,
+              "height": 1080,
+              "alt": "artesanal don cha drink FIT Health ice tea natural",
+              "path": "projetos/identidade-visual-don-cha-ice-tea/imagens/03-01-1a2b1b120911061-60bb109f7e2e.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/1c8216120911061.60bb109f7e7b1.jpg",
+              "width": 1080,
+              "height": 1080,
+              "alt": "artesanal don cha drink FIT Health ice tea natural",
+              "path": "projetos/identidade-visual-don-cha-ice-tea/imagens/04-01-1c8216120911061-60bb109f7e7b.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/2bcc1c120911061.60bb0c244bc53.jpg",
+              "width": 1061,
+              "height": 986,
+              "alt": "artesanal don cha drink FIT Health ice tea natural",
+              "path": "projetos/identidade-visual-don-cha-ice-tea/imagens/05-01-2bcc1c120911061-60bb0c244bc5.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/23b403120911061.60bb109f7f25e.jpg",
+              "width": 665,
+              "height": 665,
+              "alt": "artesanal don cha drink FIT Health ice tea natural",
+              "path": "projetos/identidade-visual-don-cha-ice-tea/imagens/06-01-23b403120911061-60bb109f7f25.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/df6d0b120911061.60bb109f7dc79.jpg",
+              "width": 1080,
+              "height": 1080,
+              "alt": "artesanal don cha drink FIT Health ice tea natural",
+              "path": "projetos/identidade-visual-don-cha-ice-tea/imagens/07-01-df6d0b120911061-60bb109f7dc7.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/348552120911061.60bb109f7f8e6.jpg",
+              "width": 1400,
+              "height": 635,
+              "alt": "artesanal don cha drink FIT Health ice tea natural",
+              "path": "projetos/identidade-visual-don-cha-ice-tea/imagens/08-01-348552120911061-60bb109f7f8e.jpg"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 120857543,
@@ -1067,7 +3570,83 @@
         }
       },
       "image": "portfolio/behance/120857543-campanha-cge-20-anos.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/58b467120857543.Y3JvcCwxMjAwLDkzOCwwLDEzMA.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/58b467120857543.Y3JvcCwxMjAwLDkzOCwwLDEzMA.jpg",
+      "description": "Graphic Design, Advertising, Photography, Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro, Adobe After Effects",
+      "localUrl": "projetos/campanha-cge-20-anos/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/8c2095120857543.60b9e8de7f44d.jpg",
+              "width": 716,
+              "height": 716,
+              "alt": "Colégio digital educação Ensino escola facebook instagram marketing   post",
+              "path": "projetos/campanha-cge-20-anos/imagens/01-01-8c2095120857543-60b9e8de7f44.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/20ddd2120857543.60b9e969ad042.jpg",
+              "width": 713,
+              "height": 713,
+              "alt": "Colégio digital educação Ensino escola facebook instagram marketing   post",
+              "path": "projetos/campanha-cge-20-anos/imagens/02-01-20ddd2120857543-60b9e969ad04.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/ba025d120857543.60b9e969ae862.jpg",
+              "width": 1200,
+              "height": 1200,
+              "alt": "Colégio digital educação Ensino escola facebook instagram marketing   post",
+              "path": "projetos/campanha-cge-20-anos/imagens/03-01-ba025d120857543-60b9e969ae86.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/adc5b9120857543.60b9e969ae261.jpg",
+              "width": 708,
+              "height": 708,
+              "alt": "Colégio digital educação Ensino escola facebook instagram marketing   post",
+              "path": "projetos/campanha-cge-20-anos/imagens/04-01-adc5b9120857543-60b9e969ae26.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/e71279120857543.60b9e969adb4b.jpg",
+              "width": 1200,
+              "height": 1200,
+              "alt": "Colégio digital educação Ensino escola facebook instagram marketing   post",
+              "path": "projetos/campanha-cge-20-anos/imagens/05-01-e71279120857543-60b9e969adb4.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/5f5cfd120857543.60b9e969ad619.jpg",
+              "width": 720,
+              "height": 1280,
+              "alt": "Colégio digital educação Ensino escola facebook instagram marketing   post",
+              "path": "projetos/campanha-cge-20-anos/imagens/06-01-5f5cfd120857543-60b9e969ad61.webp"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 120854169,
@@ -1116,7 +3695,119 @@
         }
       },
       "image": "portfolio/behance/120854169-parceria-com-amor-maior.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/2e81bc120854169.Y3JvcCwxNDQ1LDExMzEsNDIsMA.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/2e81bc120854169.Y3JvcCwxNDQ1LDExMzEsNDIsMA.jpg",
+      "description": "Graphic Design, Illustration, Product Design, Adobe Photoshop, Adobe Illustrator",
+      "localUrl": "projetos/parceria-com-amor-maior/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/2d2225120854169.60b9d90a9b807.jpg",
+              "width": 1400,
+              "height": 1032,
+              "alt": "cup gifts instagram itens Mockup personalisated stamp tiles valentines",
+              "path": "projetos/parceria-com-amor-maior/imagens/01-01-2d2225120854169-60b9d90a9b80.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/86ad4d120854169.60b9d93f1a892.jpg",
+              "width": 1200,
+              "height": 1441,
+              "alt": "cup gifts instagram itens Mockup personalisated stamp tiles valentines",
+              "path": "projetos/parceria-com-amor-maior/imagens/02-01-86ad4d120854169-60b9d93f1a89.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/458e0a120854169.60b9d93f1af08.jpg",
+              "width": 1200,
+              "height": 1153,
+              "alt": "cup gifts instagram itens Mockup personalisated stamp tiles valentines",
+              "path": "projetos/parceria-com-amor-maior/imagens/03-01-458e0a120854169-60b9d93f1af0.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/636235120854169.60b9d93f1bfc8.jpg",
+              "width": 1400,
+              "height": 1355,
+              "alt": "cup gifts instagram itens Mockup personalisated stamp tiles valentines",
+              "path": "projetos/parceria-com-amor-maior/imagens/04-01-636235120854169-60b9d93f1bfc.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/d8630c120854169.60b9d93f1b642.jpg",
+              "width": 1400,
+              "height": 1355,
+              "alt": "cup gifts instagram itens Mockup personalisated stamp tiles valentines",
+              "path": "projetos/parceria-com-amor-maior/imagens/05-01-d8630c120854169-60b9d93f1b64.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/6ae97c120854169.60b9d93f19cf6.jpg",
+              "width": 1400,
+              "height": 1032,
+              "alt": "cup gifts instagram itens Mockup personalisated stamp tiles valentines",
+              "path": "projetos/parceria-com-amor-maior/imagens/06-01-6ae97c120854169-60b9d93f19cf.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/ece3a8120854169.60b9d93f1a43f.jpg",
+              "width": 1400,
+              "height": 1032,
+              "alt": "cup gifts instagram itens Mockup personalisated stamp tiles valentines",
+              "path": "projetos/parceria-com-amor-maior/imagens/07-01-ece3a8120854169-60b9d93f1a43.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/561a59120854169.60b9d93f1ba7c.jpg",
+              "width": 915,
+              "height": 915,
+              "alt": "cup gifts instagram itens Mockup personalisated stamp tiles valentines",
+              "path": "projetos/parceria-com-amor-maior/imagens/08-01-561a59120854169-60b9d93f1ba7.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/c93cf9120854169.60b9d93f194e3.jpg",
+              "width": 1200,
+              "height": 560,
+              "alt": "cup gifts instagram itens Mockup personalisated stamp tiles valentines",
+              "path": "projetos/parceria-com-amor-maior/imagens/09-01-c93cf9120854169-60b9d93f194e.webp"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 42045521,
@@ -1163,7 +3854,191 @@
         }
       },
       "image": "portfolio/behance/42045521-cesar-3d-tiradentes.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/original/b8494a42045521.Y3JvcCw3MDMsNTUwLDQ3OSwxMTI.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/original/b8494a42045521.Y3JvcCw3MDMsNTUwLDQ3OSwxMTI.jpg",
+      "description": "Projeto de Realidade Virtual (VR) Baseado no prédio do Cesar Tiradentes real.",
+      "localUrl": "projetos/cesar-3d-tiradentes/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/c316cc42045521.57be3ea0e58d5.png",
+              "width": 1200,
+              "height": 731,
+              "alt": "3D unity cesar tiradentes recife",
+              "path": "projetos/cesar-3d-tiradentes/imagens/01-01-c316cc42045521-57be3ea0e58d5.png"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/739bff42045521.57be3ea0e80ca.jpg",
+              "width": 1175,
+              "height": 651,
+              "alt": "3D unity cesar tiradentes recife",
+              "path": "projetos/cesar-3d-tiradentes/imagens/02-01-739bff42045521-57be3ea0e80ca.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/6c877042045521.57be3ea0e9b2f.jpg",
+              "width": 1149,
+              "height": 651,
+              "alt": "3D unity cesar tiradentes recife",
+              "path": "projetos/cesar-3d-tiradentes/imagens/03-01-6c877042045521-57be3ea0e9b2f.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/4ae96142045521.57be3ea0eb76f.jpg",
+              "width": 1200,
+              "height": 656,
+              "alt": "3D unity cesar tiradentes recife",
+              "path": "projetos/cesar-3d-tiradentes/imagens/04-01-4ae96142045521-57be3ea0eb76f.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/21681f42045521.57be3ea0edd25.jpg",
+              "width": 1200,
+              "height": 678,
+              "alt": "3D unity cesar tiradentes recife",
+              "path": "projetos/cesar-3d-tiradentes/imagens/05-01-21681f42045521-57be3ea0edd25.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/53bf6542045521.57be3ea0efccd.jpg",
+              "width": 1200,
+              "height": 593,
+              "alt": "3D unity cesar tiradentes recife",
+              "path": "projetos/cesar-3d-tiradentes/imagens/06-01-53bf6542045521-57be3ea0efccd.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/e7580042045521.57be3ea0f061f.jpg",
+              "width": 1200,
+              "height": 646,
+              "alt": "3D unity cesar tiradentes recife",
+              "path": "projetos/cesar-3d-tiradentes/imagens/07-01-e7580042045521-57be3ea0f061f.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/b364a142045521.57be3ea0f277b.jpg",
+              "width": 1200,
+              "height": 593,
+              "alt": "3D unity cesar tiradentes recife",
+              "path": "projetos/cesar-3d-tiradentes/imagens/08-01-b364a142045521-57be3ea0f277b.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/dbc4a242045521.57be3ea0f2ff3.jpg",
+              "width": 1200,
+              "height": 613,
+              "alt": "3D unity cesar tiradentes recife",
+              "path": "projetos/cesar-3d-tiradentes/imagens/09-01-dbc4a242045521-57be3ea0f2ff3.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/0300ce42045521.57be3ea0f38fc.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "3D unity cesar tiradentes recife",
+              "path": "projetos/cesar-3d-tiradentes/imagens/10-01-0300ce42045521-57be3ea0f38fc.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/523fc142045521.57be3ea0f41fe.jpg",
+              "width": 1200,
+              "height": 659,
+              "alt": "3D unity cesar tiradentes recife",
+              "path": "projetos/cesar-3d-tiradentes/imagens/11-01-523fc142045521-57be3ea0f41fe.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/a1753742045521.57be3ea1006d7.jpg",
+              "width": 1200,
+              "height": 654,
+              "alt": "3D unity cesar tiradentes recife",
+              "path": "projetos/cesar-3d-tiradentes/imagens/12-01-a1753742045521-57be3ea1006d7.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/6be45842045521.57be3ea100bd2.jpg",
+              "width": 1200,
+              "height": 660,
+              "alt": "3D unity cesar tiradentes recife",
+              "path": "projetos/cesar-3d-tiradentes/imagens/13-01-6be45842045521-57be3ea100bd2.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/b0b5e242045521.57be3ea103240.jpg",
+              "width": 1200,
+              "height": 672,
+              "alt": "3D unity cesar tiradentes recife",
+              "path": "projetos/cesar-3d-tiradentes/imagens/14-01-b0b5e242045521-57be3ea103240.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/ba8efc42045521.57be3ea103c93.png",
+              "width": 1200,
+              "height": 639,
+              "alt": "3D unity cesar tiradentes recife",
+              "path": "projetos/cesar-3d-tiradentes/imagens/15-01-ba8efc42045521-57be3ea103c93.webp"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 42038387,
@@ -1207,7 +4082,83 @@
         }
       },
       "image": "portfolio/behance/42038387-viber.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/6fa33d42038387.Y3JvcCwzNDc1LDI3MjAsMCw5NjE.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/6fa33d42038387.Y3JvcCwzNDc1LDI3MjAsMCw5NjE.jpg",
+      "description": "Viber é um projeto fantasma resultado dos estudos da disciplina \"Design Universal\" No curso de Design na UFPE.Viber é um massageador localizadoque promete diminuir a dordas lesões localizadas nos joelhosapós as atividades físicas.",
+      "localUrl": "projetos/viber/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/62d7ff42038387.57bdffae8999a.jpg",
+              "width": 1200,
+              "height": 849,
+              "alt": "product design  Obesity obesidade design de produto Massager Massageador COOL INVENTIONS pitch ufpe design",
+              "path": "projetos/viber/imagens/01-01-62d7ff42038387-57bdffae8999a.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/73792642038387.57bdffaea39ad.jpg",
+              "width": 1200,
+              "height": 849,
+              "alt": "product design  Obesity obesidade design de produto Massager Massageador COOL INVENTIONS pitch ufpe design",
+              "path": "projetos/viber/imagens/02-01-73792642038387-57bdffaea39ad.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/a8227c42038387.57bdffaea3f8b.jpg",
+              "width": 1200,
+              "height": 849,
+              "alt": "product design  Obesity obesidade design de produto Massager Massageador COOL INVENTIONS pitch ufpe design",
+              "path": "projetos/viber/imagens/03-01-a8227c42038387-57bdffaea3f8b.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/cb123e42038387.57bdffaec8623.jpg",
+              "width": 1200,
+              "height": 1337,
+              "alt": "product design  Obesity obesidade design de produto Massager Massageador COOL INVENTIONS pitch ufpe design",
+              "path": "projetos/viber/imagens/04-01-cb123e42038387-57bdffaec8623.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/171e2d42038387.57bdffaee26a8.jpg",
+              "width": 1200,
+              "height": 849,
+              "alt": "product design  Obesity obesidade design de produto Massager Massageador COOL INVENTIONS pitch ufpe design",
+              "path": "projetos/viber/imagens/05-01-171e2d42038387-57bdffaee26a8.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/54c10b42038387.57bdffaee2c42.jpg",
+              "width": 1200,
+              "height": 849,
+              "alt": "product design  Obesity obesidade design de produto Massager Massageador COOL INVENTIONS pitch ufpe design",
+              "path": "projetos/viber/imagens/06-01-54c10b42038387-57bdffaee2c42.jpg"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 32058717,
@@ -1251,7 +4202,143 @@
         }
       },
       "image": "portfolio/behance/32058717-middleman.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/5cdd7732058717.Y3JvcCwyMDU0LDE2MDYsNDgzLDIw.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/5cdd7732058717.Y3JvcCwyMDU0LDE2MDYsNDgzLDIw.jpg",
+      "description": "Middleman é uma solução mobile que torna a experiência de networking mais eficiente durante o momento do evento em que o participante se encontra, estimulando o encontro físico e facilitando a troca de contatos.",
+      "localUrl": "projetos/middleman/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/03e15632058717.566d3f2d68478.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
+              "path": "projetos/middleman/imagens/01-01-03e15632058717-566d3f2d68478.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/b2201832058717.566d3f2d6952b.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
+              "path": "projetos/middleman/imagens/02-01-b2201832058717-566d3f2d6952b.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/48292932058717.566d3f2d6a72b.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
+              "path": "projetos/middleman/imagens/03-01-48292932058717-566d3f2d6a72b.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/4500b332058717.566d3f2d6b6e6.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
+              "path": "projetos/middleman/imagens/04-01-4500b332058717-566d3f2d6b6e6.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/cd015e32058717.566d3f2d6c67b.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
+              "path": "projetos/middleman/imagens/05-01-cd015e32058717-566d3f2d6c67b.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/01769f32058717.566d3f2d6d5a0.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
+              "path": "projetos/middleman/imagens/06-01-01769f32058717-566d3f2d6d5a0.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/54366632058717.566d3f2d6e60d.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
+              "path": "projetos/middleman/imagens/07-01-54366632058717-566d3f2d6e60d.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/0334ad32058717.566d3f2d6f641.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
+              "path": "projetos/middleman/imagens/08-01-0334ad32058717-566d3f2d6f641.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/b6455032058717.566d3f2d7075a.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
+              "path": "projetos/middleman/imagens/09-01-b6455032058717-566d3f2d7075a.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/1fef1432058717.566d3f2d7179b.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
+              "path": "projetos/middleman/imagens/10-01-1fef1432058717-566d3f2d7179b.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/ad3dda32058717.566d3f2d727bb.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
+              "path": "projetos/middleman/imagens/11-01-ad3dda32058717-566d3f2d727bb.jpg"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 26856833,
@@ -1291,14 +4378,162 @@
           "all": 19
         },
         "views": {
-          "all": 449
+          "all": 450
         },
         "comments": {
           "all": 2
         }
       },
       "image": "portfolio/behance/26856833-apocadino-game.png",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/original/67403726856833.55715e8a621a8.png"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/original/67403726856833.55715e8a621a8.png",
+      "description": "O jogo maisRWAAAW?? - TSSS. KABUUUM!!Do universoO jogo se trata da extinção dos dinossauros. O jogador irá simplesmente fazer a história acontecer.Um indie games bidimensional de Point-and-click ao estilo, destruir e coletar.O jogo é indicado para ...",
+      "localUrl": "projetos/apocadino-game/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/01de2426856833.5635d86c9fa00.png",
+              "width": 1200,
+              "height": 395,
+              "alt": "game apocadino Dino dinossauro fofinho cute",
+              "path": "projetos/apocadino-game/imagens/01-01-01de2426856833-5635d86c9fa00.png"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/b8ce0b26856833.5635d86d467a3.png",
+              "width": 1200,
+              "height": 779,
+              "alt": "game apocadino Dino dinossauro fofinho cute",
+              "path": "projetos/apocadino-game/imagens/02-01-b8ce0b26856833-5635d86d467a3.png"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/fef2d426856833.5635d8705e02d.png",
+              "width": 960,
+              "height": 678,
+              "alt": "game apocadino Dino dinossauro fofinho cute",
+              "path": "projetos/apocadino-game/imagens/03-01-fef2d426856833-5635d8705e02d.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/cddff326856833.5635db6f5bedc.png",
+              "width": 1200,
+              "height": 750,
+              "alt": "game apocadino Dino dinossauro fofinho cute",
+              "path": "projetos/apocadino-game/imagens/04-01-cddff326856833-5635db6f5bedc.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/6f854e26856833.5635d86d8e8cd.png",
+              "width": 1200,
+              "height": 1800,
+              "alt": "game apocadino Dino dinossauro fofinho cute",
+              "path": "projetos/apocadino-game/imagens/05-01-6f854e26856833-5635d86d8e8cd.png"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/ef3ff626856833.5635d868e1ab4.jpg",
+              "width": 1200,
+              "height": 900,
+              "alt": "game apocadino Dino dinossauro fofinho cute",
+              "path": "projetos/apocadino-game/imagens/06-01-ef3ff626856833-5635d868e1ab4.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/12fd3c26856833.5635d8689ae5d.png",
+              "width": 1200,
+              "height": 848,
+              "alt": "game apocadino Dino dinossauro fofinho cute",
+              "path": "projetos/apocadino-game/imagens/07-01-12fd3c26856833-5635d8689ae5d.png"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/61b07926856833.5635d86e32da3.JPG",
+              "width": 1200,
+              "height": 800,
+              "alt": "game apocadino Dino dinossauro fofinho cute",
+              "path": "projetos/apocadino-game/imagens/08-01-61b07926856833-5635d86e32da3.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/3e19d926856833.5635d86eaa13d.png",
+              "width": 1200,
+              "height": 750,
+              "alt": "game apocadino Dino dinossauro fofinho cute",
+              "path": "projetos/apocadino-game/imagens/09-01-3e19d926856833-5635d86eaa13d.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/7afc1126856833.5635d86fb2bc8.JPG",
+              "width": 1200,
+              "height": 800,
+              "alt": "game apocadino Dino dinossauro fofinho cute",
+              "path": "projetos/apocadino-game/imagens/10-01-7afc1126856833-5635d86fb2bc8.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/8b4c0b26856833.5635de860e011.png",
+              "width": 1200,
+              "height": 750,
+              "alt": "game apocadino Dino dinossauro fofinho cute",
+              "path": "projetos/apocadino-game/imagens/11-01-8b4c0b26856833-5635de860e011.png"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/e80b6a26856833.57ced65c9be28.jpg",
+              "width": 1200,
+              "height": 514,
+              "alt": "game apocadino Dino dinossauro fofinho cute",
+              "path": "projetos/apocadino-game/imagens/12-01-e80b6a26856833-57ced65c9be28.jpg"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 28373201,
@@ -1335,7 +4570,83 @@
         }
       },
       "image": "portfolio/behance/28373201-groundhog-day.png",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/original/ed56f628373201.55bc727356c0a.png"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/original/ed56f628373201.55bc727356c0a.png",
+      "description": "This is a platform genre mobile game, where Jack our favorite groundhog need run to put your head out of the hole to start the holiday----------Este é um jogo para celular de gênero plataforma, onde Jack nossa marmota favorita precisa correr para colo...",
+      "localUrl": "projetos/groundhog-day/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/80877128373201.55bc6c0cb12a8.jpg",
+              "width": 1200,
+              "height": 770,
+              "alt": "Groudhog Day nave Oi été marmota subterraneo",
+              "path": "projetos/groundhog-day/imagens/01-01-80877128373201-55bc6c0cb12a8.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/b57b2a28373201.55bc69001b281.jpg",
+              "width": 1200,
+              "height": 770,
+              "alt": "Groudhog Day nave Oi été marmota subterraneo",
+              "path": "projetos/groundhog-day/imagens/02-01-b57b2a28373201-55bc69001b281.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/981fb128373201.55bc6c0cb2903.jpg",
+              "width": 1200,
+              "height": 770,
+              "alt": "Groudhog Day nave Oi été marmota subterraneo",
+              "path": "projetos/groundhog-day/imagens/03-01-981fb128373201-55bc6c0cb2903.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/225c5228373201.55bc69001c623.jpg",
+              "width": 1200,
+              "height": 770,
+              "alt": "Groudhog Day nave Oi été marmota subterraneo",
+              "path": "projetos/groundhog-day/imagens/04-01-225c5228373201-55bc69001c623.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/6408ec28373201.55bc69dc5807d.jpg",
+              "width": 1200,
+              "height": 770,
+              "alt": "Groudhog Day nave Oi été marmota subterraneo",
+              "path": "projetos/groundhog-day/imagens/05-01-6408ec28373201-55bc69dc5807d.jpg"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/d3747a28373201.55bc69dc56b0e.jpg",
+              "width": 1200,
+              "height": 770,
+              "alt": "Groudhog Day nave Oi été marmota subterraneo",
+              "path": "projetos/groundhog-day/imagens/06-01-d3747a28373201-55bc69dc56b0e.jpg"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 53002611,
@@ -1384,7 +4695,347 @@
         }
       },
       "image": "portfolio/behance/53002611-cesar-3d-tiradentes-remake.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/b021c053002611.Y3JvcCw5NTYsNzQ5LDI0MSww.jpg"
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/b021c053002611.Y3JvcCw5NTYsNzQ5LDI0MSww.jpg",
+      "description": "Architecture, Game Design, Digital Art, Adobe Illustrator, Adobe Photoshop, Autodesk 3ds Max, Pixologic Zbrush, xNormal, Unity 3D",
+      "localUrl": "projetos/cesar-3d-tiradentes-remake/",
+      "modules": [
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/f34a0e53002611.592486d5e374e.png",
+              "width": 1200,
+              "height": 731,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/01-01-f34a0e53002611-592486d5e374e.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/1592fc53002611.593a5e0b859c8.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/02-01-1592fc53002611-593a5e0b859c8.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/bf8b5b53002611.593a5e0b87220.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/03-01-bf8b5b53002611-593a5e0b87220.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/7e8f5053002611.593a5e0b897b0.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/04-01-7e8f5053002611-593a5e0b897b0.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/d239ce53002611.593a5e0b8a02d.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/05-01-d239ce53002611-593a5e0b8a02d.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/e137f753002611.593a5e0b8665b.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/06-01-e137f753002611-593a5e0b8665b.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/b856df53002611.593a5e0b8aab9.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/07-01-b856df53002611-593a5e0b8aab9.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/759edc53002611.593a5e0b8af78.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/08-01-759edc53002611-593a5e0b8af78.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/d56a6653002611.593a5e0b869a9.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/09-01-d56a6653002611-593a5e0b869a9.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/367d7553002611.593a5e0b8b490.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/10-01-367d7553002611-593a5e0b8b490.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/3ec27b53002611.593a5e0b854c1.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/11-01-3ec27b53002611-593a5e0b854c1.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/aaab3953002611.593a6b02109d4.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/12-01-aaab3953002611-593a6b02109d4.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/86be4353002611.593a5e0b88944.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/13-01-86be4353002611-593a5e0b88944.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/46370753002611.593a5e0b85e9d.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/14-01-46370753002611-593a5e0b85e9d.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/017f0953002611.593a5e0b88f5c.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/15-01-017f0953002611-593a5e0b88f5c.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/ce34e253002611.593a5e0b89cac.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/16-01-ce34e253002611-593a5e0b89cac.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/ab45f553002611.593a5e0b877b2.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/17-01-ab45f553002611-593a5e0b877b2.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/d0bb1353002611.593a5e0b861fd.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/18-01-d0bb1353002611-593a5e0b861fd.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/6605cd53002611.593a5e0b86d13.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/19-01-6605cd53002611-593a5e0b86d13.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/291fee53002611.593a5e0b8846f.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/20-01-291fee53002611-593a5e0b8846f.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/4babb853002611.593a5e0b8a521.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/21-01-4babb853002611-593a5e0b8a521.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/13a8d753002611.593a5e0b8b81b.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/22-01-13a8d753002611-593a5e0b8b81b.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/53cd9453002611.593a5e0b892f6.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/23-01-53cd9453002611-593a5e0b892f6.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/cb6a2253002611.593a5e0b87f76.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/24-01-cb6a2253002611-593a5e0b87f76.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/b18e8e53002611.593a5e0b87ab0.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/25-01-b18e8e53002611-593a5e0b87ab0.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/5d304453002611.593a5e0b88cee.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/26-01-5d304453002611-593a5e0b88cee.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/e1256453002611.593a5e0b8bcc0.jpg",
+              "width": 1200,
+              "height": 675,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/27-01-e1256453002611-593a5e0b8bcc0.webp"
+            }
+          ]
+        },
+        {
+          "type": "full",
+          "images": [
+            {
+              "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/4f35fc53002611.592486d5e9431.png",
+              "width": 1200,
+              "height": 639,
+              "alt": "",
+              "path": "projetos/cesar-3d-tiradentes-remake/imagens/28-01-4f35fc53002611-592486d5e9431.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

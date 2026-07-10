@@ -418,6 +418,105 @@ p {
     border: 1px solid rgba(22, 49, 58, 0.08);
 }
 
+.project-card h3 {
+    margin-bottom: 10px;
+}
+
+.project-card p {
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}
+
+.project-detail-body {
+    background: #e9f4f3;
+}
+
+.project-detail-shell {
+    position: relative;
+    z-index: 1;
+    width: min(1440px, calc(100vw - 40px));
+    margin: 0 auto;
+    padding: 42px 0 64px;
+}
+
+.project-detail-header {
+    width: min(900px, 100%);
+    margin: 0 auto 42px;
+    text-align: center;
+}
+
+.project-detail-header > span {
+    display: block;
+    margin-bottom: 12px;
+    color: var(--accent-dark);
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 0.76rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.project-detail-header h1 {
+    max-width: none;
+    margin-bottom: 18px;
+    font-family: "Space Grotesk", sans-serif;
+    font-size: clamp(2.2rem, 5vw, 4.8rem);
+    line-height: 1;
+}
+
+.project-detail-header p {
+    color: var(--muted);
+    font-size: clamp(1rem, 2vw, 1.2rem);
+    line-height: 1.75;
+}
+
+.project-detail-back {
+    display: inline-flex;
+    margin-bottom: 38px;
+    padding: 10px 16px;
+    border-radius: 999px;
+    color: var(--accent-dark);
+    background: rgba(255, 255, 255, 0.62);
+    transition: background 180ms ease, transform 180ms ease;
+}
+
+.project-detail-back:hover,
+.project-detail-back:focus-visible {
+    background: #fff;
+    outline: none;
+    transform: translateY(-2px);
+}
+
+.project-detail-modules {
+    display: grid;
+    gap: 22px;
+}
+
+.project-detail-image {
+    margin: 0;
+}
+
+.project-detail-image img,
+.project-detail-gallery img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.project-detail-gallery {
+    display: grid;
+    grid-template-columns: repeat(var(--gallery-columns, 2), minmax(0, 1fr));
+    gap: 12px;
+    align-items: start;
+}
+
+.project-detail-footer {
+    display: flex;
+    justify-content: center;
+    padding-top: 42px;
+}
+
 .cta-row {
     display: flex;
     justify-content: center;
@@ -583,5 +682,23 @@ textarea {
 
     .stat-grid {
         grid-template-columns: 1fr;
+    }
+
+    .project-detail-shell {
+        width: min(calc(100% - 24px), 1440px);
+        padding-top: 24px;
+    }
+
+    .project-detail-header {
+        margin-bottom: 28px;
+    }
+
+    .project-detail-gallery {
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
+
+    .project-detail-modules {
+        gap: 12px;
     }
 }
