@@ -398,6 +398,18 @@ p {
     gap: 18px;
 }
 
+.project-card > a {
+    display: block;
+}
+
+.project-card h3 a {
+    color: inherit;
+}
+
+.project-card a:hover {
+    color: var(--accent-dark);
+}
+
 .project-card img {
     width: 100%;
     aspect-ratio: 4 / 3;
