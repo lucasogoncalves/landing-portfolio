@@ -12,7 +12,8 @@ const DATA_FILE = path.join(COVER_DIR, 'projects.json');
 const START_MARKER = '<!-- BEHANCE-PROJECTS:START -->';
 const END_MARKER = '<!-- BEHANCE-PROJECTS:END -->';
 const ENDPOINT = 'https://www.behance.net/v3/graphql';
-const SITE_URL = 'https://lucasogoncalves.github.io';
+const SITE_URL = 'https://lucasogoncalves.github.io/landing-portfolio';
+const BASE_PATH = '/landing-portfolio';
 const BCP = '96ee8700-3ce5-4445-96b2-ab0e1a76a63a';
 const DEFAULT_USERNAME = 'lucas-o-goncalves';
 const DEFAULT_LIMIT = 50;
@@ -421,6 +422,7 @@ function renderProjectPage(project) {
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="${BASE_PATH}/style.css">
     <link rel="stylesheet" href="../../style.css">
 </head>
 <body class="project-detail-body">
