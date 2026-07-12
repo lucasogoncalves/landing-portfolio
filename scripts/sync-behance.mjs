@@ -5,12 +5,10 @@ import { fileURLToPath } from 'node:url';
 
 const SCRIPT_DIR = path.dirname(fileURLToPath(import.meta.url));
 const ROOT_DIR = path.resolve(SCRIPT_DIR, '..');
-const INDEX_FILE = path.join(ROOT_DIR, 'index.html');
+const PORTFOLIO_FILE = path.join(ROOT_DIR, 'portfolio.js');
 const COVER_DIR = path.join(ROOT_DIR, 'portfolio', 'behance');
 const PROJECTS_DIR = path.join(ROOT_DIR, 'projetos');
 const DATA_FILE = path.join(COVER_DIR, 'projects.json');
-const START_MARKER = '<!-- BEHANCE-PROJECTS:START -->';
-const END_MARKER = '<!-- BEHANCE-PROJECTS:END -->';
 const ENDPOINT = 'https://www.behance.net/v3/graphql';
 const SITE_URL = 'https://lucasogoncalves.com';
 const BASE_PATH = '';
@@ -506,32 +504,87 @@ async function syncProject(project, previousProject, index, total) {
   return syncedProject;
 }
 
-function renderProjectCard(project) {
-  const projectPage = `${project.localUrl}index.html`;
-  return `                        <article class="panel project-card">
-                            <a href="${escapeHtml(projectPage)}" aria-label="Abrir o projeto ${escapeHtml(project.name)}">
-                                <img src="${IMAGE_PLACEHOLDER}" data-src="${escapeHtml(project.image)}" alt="${escapeHtml(project.name)}" loading="lazy" decoding="async" fetchpriority="low">
-                            </a>
-                            <div>
-                                <h3><a href="${escapeHtml(projectPage)}">${escapeHtml(project.name)}</a></h3>
-                                <p>${escapeHtml(project.description)}</p>
-                            </div>
-                        </article>`;
+function portfolioProjects(projects) {
+  return projects.map(({ name, description, image, localUrl, fields }) => ({
+    name,
+    description,
+    image,
+    url: `${localUrl}index.html`,
+    tags: (fields ?? []).map(({ label }) => label).filter(Boolean),
+  }));
 }
 
-async function updateIndex(projects) {
-  const html = await readFile(INDEX_FILE, 'utf8');
-  const start = html.indexOf(START_MARKER);
-  const end = html.indexOf(END_MARKER);
+function renderPortfolioModule(projects) {
+  return `const projects = ${JSON.stringify(portfolioProjects(projects), null, 2)};
 
-  if (start === -1 || end === -1 || end < start) {
-    throw new Error('Os marcadores da seção Behance não foram encontrados no index.html.');
+const portfolio = document.querySelector('#portfolio');
+
+if (portfolio) {
+  const list = document.createElement('div');
+  list.className = 'projects';
+
+  for (const project of projects) {
+    const card = document.createElement('article');
+    card.className = 'panel project-card';
+    const link = Object.assign(document.createElement('a'), { href: project.url, ariaLabel: \`Abrir o projeto \${project.name}\` });
+    const image = Object.assign(document.createElement('img'), { src: '${IMAGE_PLACEHOLDER}', alt: project.name, loading: 'lazy', decoding: 'async', fetchPriority: 'low' });
+    image.dataset.src = project.image;
+    link.append(image);
+
+    const content = document.createElement('div');
+    const title = document.createElement('h3');
+    title.append(Object.assign(document.createElement('a'), { href: project.url, textContent: project.name }));
+    content.append(title);
+
+    if (project.description) {
+      const description = document.createElement('p');
+      description.textContent = project.description;
+      content.append(description);
+    }
+
+    let tags;
+    if (project.tags.length) {
+      tags = document.createElement('div');
+      tags.className = 'project-tags';
+      for (const tag of project.tags) {
+        const item = document.createElement('span');
+        item.className = 'tag';
+        item.textContent = tag;
+        tags.append(item);
+      }
+    }
+
+    card.append(link);
+    if (tags) card.append(tags);
+    card.append(content);
+    list.append(card);
   }
 
-  const generated = projects.map(renderProjectCard).join('\n');
-  const replacement = `${START_MARKER}\n${generated}\n                        ${END_MARKER}`;
-  const updated = html.slice(0, start) + replacement + html.slice(end + END_MARKER.length);
-  await writeFile(INDEX_FILE, updated, 'utf8');
+  portfolio.append(list);
+
+  const loadImage = (image) => {
+    image.src = image.dataset.src;
+    image.removeAttribute('data-src');
+  };
+
+  if ('IntersectionObserver' in window) {
+    const observer = new IntersectionObserver((entries) => {
+      for (const entry of entries) {
+        if (!entry.isIntersecting) continue;
+        loadImage(entry.target);
+        observer.unobserve(entry.target);
+      }
+    }, { rootMargin: '250px 0px' });
+    list.querySelectorAll('img[data-src]').forEach((image) => observer.observe(image));
+  } else {
+    list.querySelectorAll('img[data-src]').forEach(loadImage);
+  }
+}
+`;
+}
+
+async function writePortfolioModule(projects) {
+  await writeFile(PORTFOLIO_FILE, renderPortfolioModule(projects), 'utf8');
 }
 
 async function removeStaleCovers(previousProjects, currentProjects) {
@@ -575,7 +628,7 @@ async function main() {
     projects.push(await syncProject(project, previousById.get(String(project.id)), index, remoteProjects.length));
   }
 
-  await updateIndex(projects);
+  await writePortfolioModule(projects);
   await writeFile(DATA_FILE, `${JSON.stringify({ username, syncedAt: new Date().toISOString(), projects }, null, 2)}\n`, 'utf8');
   await removeStaleCovers(previousProjects, projects);
   await removeStaleProjectDirectories(previousProjects, projects);
@@ -584,7 +637,11 @@ async function main() {
   console.log(`\nConcluído: ${projects.length} projetos e ${totalImages} imagens internas disponíveis localmente.`);
 }
 
-main().catch((error) => {
-  console.error(`\nErro: ${error.message}`);
-  process.exitCode = 1;
-});
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
+  main().catch((error) => {
+    console.error(`\nErro: ${error.message}`);
+    process.exitCode = 1;
+  });
+}
+
+export { portfolioProjects, renderPortfolioModule };

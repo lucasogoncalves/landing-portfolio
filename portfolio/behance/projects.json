@@ -1,6 +1,6 @@
 {
   "username": "lucas-o-goncalves",
-  "syncedAt": "2026-07-10T17:11:22.175Z",
+  "syncedAt": "2026-07-12T14:09:47.341Z",
   "projects": [
     {
       "id": 252027197,
@@ -581,7 +581,7 @@
           "all": 0
         },
         "views": {
-          "all": 4
+          "all": 5
         },
         "comments": {
           "all": 0
@@ -631,7 +631,7 @@
               "width": 1200,
               "height": 2133,
               "alt": "landing page Web Design  UI/UX Website user interface wordpress elementor web development  ui design user experience",
-              "path": "projetos/site-liberdade-private-club/imagens/03-01-9059b6250024147-6a154b984aa9.jpg"
+              "path": "projetos/site-liberdade-private-club/imagens/03-01-9059b6250024147-6a154b984aa9.webp"
             }
           ]
         }
@@ -985,7 +985,7 @@
       "slug": "Trazso-E-commerce-de-Impressao-3D-com-Preview",
       "url": "https://www.behance.net/gallery/233530679/Trazso-E-commerce-de-Impressao-3D-com-Preview",
       "publishedOn": 1756441812,
-      "modifiedOn": 1783693474,
+      "modifiedOn": 1783865376,
       "fields": [
         {
           "id": 44,
@@ -1005,11 +1005,13 @@
       ],
       "covers": {
         "size_404": {
-          "url": "https://mir-s3-cdn-cf.behance.net/projects/404/8b825e233530679.Y3JvcCw2OTMsNTQyLDcwNSwyMTI.jpg"
+          "url": "https://mir-s3-cdn-cf.behance.net/projects/404/61e44e233530679.Y3JvcCwyOTE3LDIyODEsMCw1NDg.jpg"
         },
-        "size_808": null,
+        "size_808": {
+          "url": "https://mir-s3-cdn-cf.behance.net/projects/808/61e44e233530679.Y3JvcCwyOTE3LDIyODEsMCw1NDg.jpg"
+        },
         "size_original": {
-          "url": "https://mir-s3-cdn-cf.behance.net/projects/original/8b825e233530679.Y3JvcCw2OTMsNTQyLDcwNSwyMTI.jpg"
+          "url": "https://mir-s3-cdn-cf.behance.net/projects/original/61e44e233530679.Y3JvcCwyOTE3LDIyODEsMCw1NDg.jpg"
         }
       },
       "stats": {
@@ -1024,7 +1026,7 @@
         }
       },
       "image": "portfolio/behance/233530679-trazso-e-commerce-de-impressao-3d-com-preview.jpg",
-      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/original/8b825e233530679.Y3JvcCw2OTMsNTQyLDcwNSwyMTI.jpg",
+      "coverUrl": "https://mir-s3-cdn-cf.behance.net/projects/808/61e44e233530679.Y3JvcCwyOTE3LDIyODEsMCw1NDg.jpg",
       "description": "Graphic Design, Interaction Design, Product Design, Adobe Illustrator, Adobe Photoshop, WordPress, Processing, ChatGPT",
       "localUrl": "projetos/trazso-e-commerce-de-impressao-3d-com-preview/",
       "modules": [
@@ -1799,7 +1801,7 @@
               "width": 1400,
               "height": 787,
               "alt": "advogado identidade visual Logo Design brand identity marketing   Photography  motion design Video Editing",
-              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/07-01-3c9e89204249021-66a604e3604e.jpg"
+              "path": "projetos/galindo-cavalcanti-advocacia-branding-video/imagens/07-01-3c9e89204249021-66a604e3604e.webp"
             }
           ]
         }
@@ -2246,7 +2248,7 @@
               "width": 1200,
               "height": 723,
               "alt": "A Aula escola alien nave animamundi Maytee Film Festival",
-              "path": "projetos/a-aula-animacao-de-comdia/imagens/09-01-091ed428373747-55bc77495af0f.jpg"
+              "path": "projetos/a-aula-animacao-de-comdia/imagens/09-01-091ed428373747-55bc77495af0f.webp"
             }
           ]
         },
@@ -2258,7 +2260,7 @@
               "width": 1200,
               "height": 887,
               "alt": "A Aula escola alien nave animamundi Maytee Film Festival",
-              "path": "projetos/a-aula-animacao-de-comdia/imagens/10-01-1f0f0928373747-55bc77495c26e.jpg"
+              "path": "projetos/a-aula-animacao-de-comdia/imagens/10-01-1f0f0928373747-55bc77495c26e.webp"
             }
           ]
         },
@@ -2335,7 +2337,7 @@
               "width": 1004,
               "height": 571,
               "alt": "artwork beach Digital Art  digital illustration Drawing  graphic design  Ocean sea summer surfing",
-              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/01-01-75350d145176959-66a55cd025d1.jpg"
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/01-01-75350d145176959-66a55cd025d1.webp"
             }
           ]
         },
@@ -2347,7 +2349,7 @@
               "width": 1400,
               "height": 1120,
               "alt": "artwork beach Digital Art  digital illustration Drawing  graphic design  Ocean sea summer surfing",
-              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/02-01-9053c7145176959-62996ead4f04.jpg"
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/02-01-9053c7145176959-62996ead4f04.webp"
             }
           ]
         },
@@ -2359,84 +2361,84 @@
               "width": 1200,
               "height": 969,
               "alt": "",
-              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-01-849fa6145176959-66a55dea0e58.jpg"
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-01-849fa6145176959-66a55dea0e58.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/3e802a145176959.66a55dea0e0b6.jpg",
               "width": 1200,
               "height": 969,
               "alt": "",
-              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-02-3e802a145176959-66a55dea0e0b.jpg"
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-02-3e802a145176959-66a55dea0e0b.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/b46da4145176959.66a55dea0f624.jpg",
               "width": 1200,
               "height": 969,
               "alt": "",
-              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-03-b46da4145176959-66a55dea0f62.jpg"
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-03-b46da4145176959-66a55dea0f62.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/6b817f145176959.66a55dea10cf1.jpg",
               "width": 1200,
               "height": 969,
               "alt": "",
-              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-04-6b817f145176959-66a55dea10cf.jpg"
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-04-6b817f145176959-66a55dea10cf.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/84a69f145176959.66a55dea111a0.jpg",
               "width": 1200,
               "height": 969,
               "alt": "",
-              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-05-84a69f145176959-66a55dea111a.jpg"
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-05-84a69f145176959-66a55dea111a.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/ce6cdb145176959.66a55dea101a4.jpg",
               "width": 2789,
               "height": 2251,
               "alt": "",
-              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-06-ce6cdb145176959-66a55dea101a.jpg"
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-06-ce6cdb145176959-66a55dea101a.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/f46246145176959.66a55dea0f139.jpg",
               "width": 2789,
               "height": 2251,
               "alt": "",
-              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-07-f46246145176959-66a55dea0f13.jpg"
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-07-f46246145176959-66a55dea0f13.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/c47d3e145176959.66a55dea0ec6b.jpg",
               "width": 2789,
               "height": 2251,
               "alt": "",
-              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-08-c47d3e145176959-66a55dea0ec6.jpg"
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-08-c47d3e145176959-66a55dea0ec6.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/eff6a8145176959.66a55dea0fc9f.jpg",
               "width": 1200,
               "height": 969,
               "alt": "",
-              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-09-eff6a8145176959-66a55dea0fc9.jpg"
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-09-eff6a8145176959-66a55dea0fc9.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/b6658d145176959.66a55dea0dbd3.jpg",
               "width": 1200,
               "height": 969,
               "alt": "",
-              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-10-b6658d145176959-66a55dea0dbd.jpg"
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-10-b6658d145176959-66a55dea0dbd.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/b15971145176959.66a55dea0d6f7.jpg",
               "width": 2789,
               "height": 2251,
               "alt": "",
-              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-11-b15971145176959-66a55dea0d6f.jpg"
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-11-b15971145176959-66a55dea0d6f.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/a591cb145176959.66a55dea1068e.jpg",
               "width": 2789,
               "height": 2251,
               "alt": "",
-              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-12-a591cb145176959-66a55dea1068.jpg"
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/03-12-a591cb145176959-66a55dea1068.webp"
             }
           ]
         },
@@ -2448,7 +2450,7 @@
               "width": 1400,
               "height": 1050,
               "alt": "artwork beach Digital Art  digital illustration Drawing  graphic design  Ocean sea summer surfing",
-              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/04-01-0eed84145176959-62996cb4cf53.jpg"
+              "path": "projetos/surf-print-design-para-equipamentos-de-surf/imagens/04-01-0eed84145176959-62996cb4cf53.webp"
             }
           ]
         }
@@ -2515,98 +2517,98 @@
               "width": 3840,
               "height": 2892,
               "alt": "",
-              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-01-dab1dd145173457-66a5a5776b5b.jpg"
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-01-dab1dd145173457-66a5a5776b5b.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/7fbecf145173457.66a5a57768547.jpg",
               "width": 3840,
               "height": 2892,
               "alt": "",
-              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-02-7fbecf145173457-66a5a5776854.jpg"
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-02-7fbecf145173457-66a5a5776854.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/53fb17145173457.66a5a5776a91f.jpg",
               "width": 3840,
               "height": 2892,
               "alt": "",
-              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-03-53fb17145173457-66a5a5776a91.jpg"
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-03-53fb17145173457-66a5a5776a91.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/9ca9fc145173457.66a5a5776b0be.jpg",
               "width": 3840,
               "height": 2892,
               "alt": "",
-              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-04-9ca9fc145173457-66a5a5776b0b.jpg"
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-04-9ca9fc145173457-66a5a5776b0b.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/d4059b145173457.66a5a57766e6e.jpg",
               "width": 3840,
               "height": 2892,
               "alt": "",
-              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-05-d4059b145173457-66a5a57766e6.jpg"
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-05-d4059b145173457-66a5a57766e6.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/3412b8145173457.66a5a5776763d.jpg",
               "width": 3840,
               "height": 2892,
               "alt": "",
-              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-06-3412b8145173457-66a5a5776763.jpg"
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-06-3412b8145173457-66a5a5776763.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/c4a2b1145173457.66a5a5776975c.jpg",
               "width": 3840,
               "height": 2892,
               "alt": "",
-              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-07-c4a2b1145173457-66a5a5776975.jpg"
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-07-c4a2b1145173457-66a5a5776975.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/8f613c145173457.66a5a57769f1d.jpg",
               "width": 3840,
               "height": 2892,
               "alt": "",
-              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-08-8f613c145173457-66a5a57769f1.jpg"
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-08-8f613c145173457-66a5a57769f1.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/0a4fa2145173457.66a5a57768fec.jpg",
               "width": 3840,
               "height": 2892,
               "alt": "",
-              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-09-0a4fa2145173457-66a5a57768fe.jpg"
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-09-0a4fa2145173457-66a5a57768fe.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/f5a2b5145173457.66a5a5776bd3c.jpg",
               "width": 3840,
               "height": 2892,
               "alt": "",
-              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-10-f5a2b5145173457-66a5a5776bd3.jpg"
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-10-f5a2b5145173457-66a5a5776bd3.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/8aaa18145173457.66a5a5776a41a.jpg",
               "width": 3840,
               "height": 2892,
               "alt": "",
-              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-11-8aaa18145173457-66a5a5776a41.jpg"
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-11-8aaa18145173457-66a5a5776a41.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/90c538145173457.66a5a57767dcb.jpg",
               "width": 3840,
               "height": 2892,
               "alt": "",
-              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-12-90c538145173457-66a5a57767dc.jpg"
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-12-90c538145173457-66a5a57767dc.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/7077d4145173457.66a5a5776c9ff.jpg",
               "width": 3840,
               "height": 2892,
               "alt": "",
-              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-13-7077d4145173457-66a5a5776c9f.jpg"
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-13-7077d4145173457-66a5a5776c9f.webp"
             },
             {
               "sourceUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/996403145173457.66a5a5776c261.jpg",
               "width": 3840,
               "height": 2892,
               "alt": "",
-              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-14-996403145173457-66a5a5776c26.jpg"
+              "path": "projetos/tita-therapy-storyboard-e-animacao-institucional/imagens/02-14-996403145173457-66a5a5776c26.webp"
             }
           ]
         }
@@ -2790,7 +2792,7 @@
               "width": 1400,
               "height": 1050,
               "alt": "card design Event Invitation wedding Mockup graphic design",
-              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/02-01-6df097145171157-66ba355ed5f3.jpg"
+              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/02-01-6df097145171157-66ba355ed5f3.webp"
             }
           ]
         },
@@ -2802,7 +2804,7 @@
               "width": 1400,
               "height": 1050,
               "alt": "card design Event Invitation wedding Mockup graphic design",
-              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/03-01-e3be43145171157-66ba355ed659.jpg"
+              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/03-01-e3be43145171157-66ba355ed659.webp"
             }
           ]
         },
@@ -2814,7 +2816,7 @@
               "width": 1400,
               "height": 1167,
               "alt": "card design Event Invitation wedding Mockup graphic design",
-              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/04-01-86294f145171157-66ba2fdf953e.jpg"
+              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/04-01-86294f145171157-66ba2fdf953e.webp"
             }
           ]
         },
@@ -2826,7 +2828,7 @@
               "width": 1400,
               "height": 891,
               "alt": "card design Event Invitation wedding Mockup graphic design",
-              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/05-01-aeac74145171157-66ba2fdf9610.jpg"
+              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/05-01-aeac74145171157-66ba2fdf9610.webp"
             }
           ]
         },
@@ -2838,7 +2840,7 @@
               "width": 1400,
               "height": 891,
               "alt": "card design Event Invitation wedding Mockup graphic design",
-              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/06-01-d0cc7d145171157-66ba2fdf958b.jpg"
+              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/06-01-d0cc7d145171157-66ba2fdf958b.webp"
             }
           ]
         },
@@ -2850,7 +2852,7 @@
               "width": 1400,
               "height": 1050,
               "alt": "card design Event Invitation wedding Mockup graphic design",
-              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/07-01-51265c145171157-66ba355ed6b9.jpg"
+              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/07-01-51265c145171157-66ba355ed6b9.webp"
             }
           ]
         },
@@ -2862,7 +2864,7 @@
               "width": 1400,
               "height": 1050,
               "alt": "card design Event Invitation wedding Mockup graphic design",
-              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/08-01-4b6c2a145171157-66ba355ed718.jpg"
+              "path": "projetos/convite-de-casamento-julita-e-diogo/imagens/08-01-4b6c2a145171157-66ba355ed718.webp"
             }
           ]
         }
@@ -3008,7 +3010,7 @@
               "width": 1400,
               "height": 1050,
               "alt": "human face old photo Photography  portrait restoration Retro vintage",
-              "path": "projetos/restauracao-de-foto-antiga/imagens/01-01-56ed07134315163-66ba65bf2fda.jpg"
+              "path": "projetos/restauracao-de-foto-antiga/imagens/01-01-56ed07134315163-66ba65bf2fda.webp"
             }
           ]
         },
@@ -3039,7 +3041,7 @@
               "width": 1400,
               "height": 1050,
               "alt": "human face old photo Photography  portrait restoration Retro vintage",
-              "path": "projetos/restauracao-de-foto-antiga/imagens/03-01-28b6de134315163-66ba65bf2f63.jpg"
+              "path": "projetos/restauracao-de-foto-antiga/imagens/03-01-28b6de134315163-66ba65bf2f63.webp"
             }
           ]
         }
@@ -3238,7 +3240,7 @@
               "width": 1400,
               "height": 933,
               "alt": "black Board chalk Food  Pizza",
-              "path": "projetos/pizza-board-for-wall/imagens/01-01-2efde1121462677-60c6b874a012.jpg"
+              "path": "projetos/pizza-board-for-wall/imagens/01-01-2efde1121462677-60c6b874a012.webp"
             }
           ]
         }
@@ -3303,7 +3305,7 @@
               "width": 1400,
               "height": 1074,
               "alt": "dubstep edm guitar metal music soundtrack",
-              "path": "projetos/explorando-o-espaco/imagens/01-01-5face2120913105-60bb1cae8c63.jpg"
+              "path": "projetos/explorando-o-espaco/imagens/01-01-5face2120913105-60bb1cae8c63.webp"
             }
           ]
         }
@@ -3368,7 +3370,7 @@
               "width": 1400,
               "height": 2057,
               "alt": "audio visualizer audiobook book cover mindset music Reading social Transformation volunteer",
-              "path": "projetos/transformacao-social-na-pratica/imagens/01-01-7ff0f3120912237-60bb1560b151.jpg"
+              "path": "projetos/transformacao-social-na-pratica/imagens/01-01-7ff0f3120912237-60bb1560b151.webp"
             }
           ]
         }
@@ -3457,7 +3459,7 @@
               "width": 1080,
               "height": 1080,
               "alt": "artesanal don cha drink FIT Health ice tea natural",
-              "path": "projetos/identidade-visual-don-cha-ice-tea/imagens/03-01-1a2b1b120911061-60bb109f7e2e.jpg"
+              "path": "projetos/identidade-visual-don-cha-ice-tea/imagens/03-01-1a2b1b120911061-60bb109f7e2e.webp"
             }
           ]
         },
@@ -3469,7 +3471,7 @@
               "width": 1080,
               "height": 1080,
               "alt": "artesanal don cha drink FIT Health ice tea natural",
-              "path": "projetos/identidade-visual-don-cha-ice-tea/imagens/04-01-1c8216120911061-60bb109f7e7b.jpg"
+              "path": "projetos/identidade-visual-don-cha-ice-tea/imagens/04-01-1c8216120911061-60bb109f7e7b.webp"
             }
           ]
         },
@@ -3481,7 +3483,7 @@
               "width": 1061,
               "height": 986,
               "alt": "artesanal don cha drink FIT Health ice tea natural",
-              "path": "projetos/identidade-visual-don-cha-ice-tea/imagens/05-01-2bcc1c120911061-60bb0c244bc5.jpg"
+              "path": "projetos/identidade-visual-don-cha-ice-tea/imagens/05-01-2bcc1c120911061-60bb0c244bc5.webp"
             }
           ]
         },
@@ -3493,7 +3495,7 @@
               "width": 665,
               "height": 665,
               "alt": "artesanal don cha drink FIT Health ice tea natural",
-              "path": "projetos/identidade-visual-don-cha-ice-tea/imagens/06-01-23b403120911061-60bb109f7f25.jpg"
+              "path": "projetos/identidade-visual-don-cha-ice-tea/imagens/06-01-23b403120911061-60bb109f7f25.webp"
             }
           ]
         },
@@ -3505,7 +3507,7 @@
               "width": 1080,
               "height": 1080,
               "alt": "artesanal don cha drink FIT Health ice tea natural",
-              "path": "projetos/identidade-visual-don-cha-ice-tea/imagens/07-01-df6d0b120911061-60bb109f7dc7.jpg"
+              "path": "projetos/identidade-visual-don-cha-ice-tea/imagens/07-01-df6d0b120911061-60bb109f7dc7.webp"
             }
           ]
         },
@@ -3517,7 +3519,7 @@
               "width": 1400,
               "height": 635,
               "alt": "artesanal don cha drink FIT Health ice tea natural",
-              "path": "projetos/identidade-visual-don-cha-ice-tea/imagens/08-01-348552120911061-60bb109f7f8e.jpg"
+              "path": "projetos/identidade-visual-don-cha-ice-tea/imagens/08-01-348552120911061-60bb109f7f8e.webp"
             }
           ]
         }
@@ -3743,7 +3745,7 @@
               "width": 1400,
               "height": 1355,
               "alt": "cup gifts instagram itens Mockup personalisated stamp tiles valentines",
-              "path": "projetos/parceria-com-amor-maior/imagens/04-01-636235120854169-60b9d93f1bfc.jpg"
+              "path": "projetos/parceria-com-amor-maior/imagens/04-01-636235120854169-60b9d93f1bfc.webp"
             }
           ]
         },
@@ -3755,7 +3757,7 @@
               "width": 1400,
               "height": 1355,
               "alt": "cup gifts instagram itens Mockup personalisated stamp tiles valentines",
-              "path": "projetos/parceria-com-amor-maior/imagens/05-01-d8630c120854169-60b9d93f1b64.jpg"
+              "path": "projetos/parceria-com-amor-maior/imagens/05-01-d8630c120854169-60b9d93f1b64.webp"
             }
           ]
         },
@@ -3767,7 +3769,7 @@
               "width": 1400,
               "height": 1032,
               "alt": "cup gifts instagram itens Mockup personalisated stamp tiles valentines",
-              "path": "projetos/parceria-com-amor-maior/imagens/06-01-6ae97c120854169-60b9d93f19cf.jpg"
+              "path": "projetos/parceria-com-amor-maior/imagens/06-01-6ae97c120854169-60b9d93f19cf.webp"
             }
           ]
         },
@@ -3779,7 +3781,7 @@
               "width": 1400,
               "height": 1032,
               "alt": "cup gifts instagram itens Mockup personalisated stamp tiles valentines",
-              "path": "projetos/parceria-com-amor-maior/imagens/07-01-ece3a8120854169-60b9d93f1a43.jpg"
+              "path": "projetos/parceria-com-amor-maior/imagens/07-01-ece3a8120854169-60b9d93f1a43.webp"
             }
           ]
         },
@@ -3791,7 +3793,7 @@
               "width": 915,
               "height": 915,
               "alt": "cup gifts instagram itens Mockup personalisated stamp tiles valentines",
-              "path": "projetos/parceria-com-amor-maior/imagens/08-01-561a59120854169-60b9d93f1ba7.jpg"
+              "path": "projetos/parceria-com-amor-maior/imagens/08-01-561a59120854169-60b9d93f1ba7.webp"
             }
           ]
         },
@@ -3866,7 +3868,7 @@
               "width": 1200,
               "height": 731,
               "alt": "3D unity cesar tiradentes recife",
-              "path": "projetos/cesar-3d-tiradentes/imagens/01-01-c316cc42045521-57be3ea0e58d5.png"
+              "path": "projetos/cesar-3d-tiradentes/imagens/01-01-c316cc42045521-57be3ea0e58d5.webp"
             }
           ]
         },
@@ -4094,7 +4096,7 @@
               "width": 1200,
               "height": 849,
               "alt": "product design  Obesity obesidade design de produto Massager Massageador COOL INVENTIONS pitch ufpe design",
-              "path": "projetos/viber/imagens/01-01-62d7ff42038387-57bdffae8999a.jpg"
+              "path": "projetos/viber/imagens/01-01-62d7ff42038387-57bdffae8999a.webp"
             }
           ]
         },
@@ -4106,7 +4108,7 @@
               "width": 1200,
               "height": 849,
               "alt": "product design  Obesity obesidade design de produto Massager Massageador COOL INVENTIONS pitch ufpe design",
-              "path": "projetos/viber/imagens/02-01-73792642038387-57bdffaea39ad.jpg"
+              "path": "projetos/viber/imagens/02-01-73792642038387-57bdffaea39ad.webp"
             }
           ]
         },
@@ -4118,7 +4120,7 @@
               "width": 1200,
               "height": 849,
               "alt": "product design  Obesity obesidade design de produto Massager Massageador COOL INVENTIONS pitch ufpe design",
-              "path": "projetos/viber/imagens/03-01-a8227c42038387-57bdffaea3f8b.jpg"
+              "path": "projetos/viber/imagens/03-01-a8227c42038387-57bdffaea3f8b.webp"
             }
           ]
         },
@@ -4130,7 +4132,7 @@
               "width": 1200,
               "height": 1337,
               "alt": "product design  Obesity obesidade design de produto Massager Massageador COOL INVENTIONS pitch ufpe design",
-              "path": "projetos/viber/imagens/04-01-cb123e42038387-57bdffaec8623.jpg"
+              "path": "projetos/viber/imagens/04-01-cb123e42038387-57bdffaec8623.webp"
             }
           ]
         },
@@ -4142,7 +4144,7 @@
               "width": 1200,
               "height": 849,
               "alt": "product design  Obesity obesidade design de produto Massager Massageador COOL INVENTIONS pitch ufpe design",
-              "path": "projetos/viber/imagens/05-01-171e2d42038387-57bdffaee26a8.jpg"
+              "path": "projetos/viber/imagens/05-01-171e2d42038387-57bdffaee26a8.webp"
             }
           ]
         },
@@ -4154,7 +4156,7 @@
               "width": 1200,
               "height": 849,
               "alt": "product design  Obesity obesidade design de produto Massager Massageador COOL INVENTIONS pitch ufpe design",
-              "path": "projetos/viber/imagens/06-01-54c10b42038387-57bdffaee2c42.jpg"
+              "path": "projetos/viber/imagens/06-01-54c10b42038387-57bdffaee2c42.webp"
             }
           ]
         }
@@ -4214,7 +4216,7 @@
               "width": 1200,
               "height": 675,
               "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
-              "path": "projetos/middleman/imagens/01-01-03e15632058717-566d3f2d68478.jpg"
+              "path": "projetos/middleman/imagens/01-01-03e15632058717-566d3f2d68478.webp"
             }
           ]
         },
@@ -4226,7 +4228,7 @@
               "width": 1200,
               "height": 675,
               "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
-              "path": "projetos/middleman/imagens/02-01-b2201832058717-566d3f2d6952b.jpg"
+              "path": "projetos/middleman/imagens/02-01-b2201832058717-566d3f2d6952b.webp"
             }
           ]
         },
@@ -4238,7 +4240,7 @@
               "width": 1200,
               "height": 675,
               "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
-              "path": "projetos/middleman/imagens/03-01-48292932058717-566d3f2d6a72b.jpg"
+              "path": "projetos/middleman/imagens/03-01-48292932058717-566d3f2d6a72b.webp"
             }
           ]
         },
@@ -4250,7 +4252,7 @@
               "width": 1200,
               "height": 675,
               "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
-              "path": "projetos/middleman/imagens/04-01-4500b332058717-566d3f2d6b6e6.jpg"
+              "path": "projetos/middleman/imagens/04-01-4500b332058717-566d3f2d6b6e6.webp"
             }
           ]
         },
@@ -4262,7 +4264,7 @@
               "width": 1200,
               "height": 675,
               "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
-              "path": "projetos/middleman/imagens/05-01-cd015e32058717-566d3f2d6c67b.jpg"
+              "path": "projetos/middleman/imagens/05-01-cd015e32058717-566d3f2d6c67b.webp"
             }
           ]
         },
@@ -4274,7 +4276,7 @@
               "width": 1200,
               "height": 675,
               "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
-              "path": "projetos/middleman/imagens/06-01-01769f32058717-566d3f2d6d5a0.jpg"
+              "path": "projetos/middleman/imagens/06-01-01769f32058717-566d3f2d6d5a0.webp"
             }
           ]
         },
@@ -4286,7 +4288,7 @@
               "width": 1200,
               "height": 675,
               "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
-              "path": "projetos/middleman/imagens/07-01-54366632058717-566d3f2d6e60d.jpg"
+              "path": "projetos/middleman/imagens/07-01-54366632058717-566d3f2d6e60d.webp"
             }
           ]
         },
@@ -4298,7 +4300,7 @@
               "width": 1200,
               "height": 675,
               "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
-              "path": "projetos/middleman/imagens/08-01-0334ad32058717-566d3f2d6f641.jpg"
+              "path": "projetos/middleman/imagens/08-01-0334ad32058717-566d3f2d6f641.webp"
             }
           ]
         },
@@ -4310,7 +4312,7 @@
               "width": 1200,
               "height": 675,
               "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
-              "path": "projetos/middleman/imagens/09-01-b6455032058717-566d3f2d7075a.jpg"
+              "path": "projetos/middleman/imagens/09-01-b6455032058717-566d3f2d7075a.webp"
             }
           ]
         },
@@ -4322,7 +4324,7 @@
               "width": 1200,
               "height": 675,
               "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
-              "path": "projetos/middleman/imagens/10-01-1fef1432058717-566d3f2d7179b.jpg"
+              "path": "projetos/middleman/imagens/10-01-1fef1432058717-566d3f2d7179b.webp"
             }
           ]
         },
@@ -4334,7 +4336,7 @@
               "width": 1200,
               "height": 675,
               "alt": "middleman   networking Eficiente eventos encontros profissionais acadêmicos",
-              "path": "projetos/middleman/imagens/11-01-ad3dda32058717-566d3f2d727bb.jpg"
+              "path": "projetos/middleman/imagens/11-01-ad3dda32058717-566d3f2d727bb.webp"
             }
           ]
         }
@@ -4397,7 +4399,7 @@
               "width": 1200,
               "height": 395,
               "alt": "game apocadino Dino dinossauro fofinho cute",
-              "path": "projetos/apocadino-game/imagens/01-01-01de2426856833-5635d86c9fa00.png"
+              "path": "projetos/apocadino-game/imagens/01-01-01de2426856833-5635d86c9fa00.webp"
             }
           ]
         },
@@ -4409,7 +4411,7 @@
               "width": 1200,
               "height": 779,
               "alt": "game apocadino Dino dinossauro fofinho cute",
-              "path": "projetos/apocadino-game/imagens/02-01-b8ce0b26856833-5635d86d467a3.png"
+              "path": "projetos/apocadino-game/imagens/02-01-b8ce0b26856833-5635d86d467a3.webp"
             }
           ]
         },
@@ -4445,7 +4447,7 @@
               "width": 1200,
               "height": 1800,
               "alt": "game apocadino Dino dinossauro fofinho cute",
-              "path": "projetos/apocadino-game/imagens/05-01-6f854e26856833-5635d86d8e8cd.png"
+              "path": "projetos/apocadino-game/imagens/05-01-6f854e26856833-5635d86d8e8cd.webp"
             }
           ]
         },
@@ -4457,7 +4459,7 @@
               "width": 1200,
               "height": 900,
               "alt": "game apocadino Dino dinossauro fofinho cute",
-              "path": "projetos/apocadino-game/imagens/06-01-ef3ff626856833-5635d868e1ab4.jpg"
+              "path": "projetos/apocadino-game/imagens/06-01-ef3ff626856833-5635d868e1ab4.webp"
             }
           ]
         },
@@ -4469,7 +4471,7 @@
               "width": 1200,
               "height": 848,
               "alt": "game apocadino Dino dinossauro fofinho cute",
-              "path": "projetos/apocadino-game/imagens/07-01-12fd3c26856833-5635d8689ae5d.png"
+              "path": "projetos/apocadino-game/imagens/07-01-12fd3c26856833-5635d8689ae5d.webp"
             }
           ]
         },
@@ -4481,7 +4483,7 @@
               "width": 1200,
               "height": 800,
               "alt": "game apocadino Dino dinossauro fofinho cute",
-              "path": "projetos/apocadino-game/imagens/08-01-61b07926856833-5635d86e32da3.jpg"
+              "path": "projetos/apocadino-game/imagens/08-01-61b07926856833-5635d86e32da3.webp"
             }
           ]
         },
@@ -4505,7 +4507,7 @@
               "width": 1200,
               "height": 800,
               "alt": "game apocadino Dino dinossauro fofinho cute",
-              "path": "projetos/apocadino-game/imagens/10-01-7afc1126856833-5635d86fb2bc8.jpg"
+              "path": "projetos/apocadino-game/imagens/10-01-7afc1126856833-5635d86fb2bc8.webp"
             }
           ]
         },
@@ -4517,7 +4519,7 @@
               "width": 1200,
               "height": 750,
               "alt": "game apocadino Dino dinossauro fofinho cute",
-              "path": "projetos/apocadino-game/imagens/11-01-8b4c0b26856833-5635de860e011.png"
+              "path": "projetos/apocadino-game/imagens/11-01-8b4c0b26856833-5635de860e011.webp"
             }
           ]
         },
@@ -4529,7 +4531,7 @@
               "width": 1200,
               "height": 514,
               "alt": "game apocadino Dino dinossauro fofinho cute",
-              "path": "projetos/apocadino-game/imagens/12-01-e80b6a26856833-57ced65c9be28.jpg"
+              "path": "projetos/apocadino-game/imagens/12-01-e80b6a26856833-57ced65c9be28.webp"
             }
           ]
         }
@@ -4582,7 +4584,7 @@
               "width": 1200,
               "height": 770,
               "alt": "Groudhog Day nave Oi été marmota subterraneo",
-              "path": "projetos/groundhog-day/imagens/01-01-80877128373201-55bc6c0cb12a8.jpg"
+              "path": "projetos/groundhog-day/imagens/01-01-80877128373201-55bc6c0cb12a8.webp"
             }
           ]
         },
@@ -4594,7 +4596,7 @@
               "width": 1200,
               "height": 770,
               "alt": "Groudhog Day nave Oi été marmota subterraneo",
-              "path": "projetos/groundhog-day/imagens/02-01-b57b2a28373201-55bc69001b281.jpg"
+              "path": "projetos/groundhog-day/imagens/02-01-b57b2a28373201-55bc69001b281.webp"
             }
           ]
         },
@@ -4606,7 +4608,7 @@
               "width": 1200,
               "height": 770,
               "alt": "Groudhog Day nave Oi été marmota subterraneo",
-              "path": "projetos/groundhog-day/imagens/03-01-981fb128373201-55bc6c0cb2903.jpg"
+              "path": "projetos/groundhog-day/imagens/03-01-981fb128373201-55bc6c0cb2903.webp"
             }
           ]
         },
@@ -4618,7 +4620,7 @@
               "width": 1200,
               "height": 770,
               "alt": "Groudhog Day nave Oi été marmota subterraneo",
-              "path": "projetos/groundhog-day/imagens/04-01-225c5228373201-55bc69001c623.jpg"
+              "path": "projetos/groundhog-day/imagens/04-01-225c5228373201-55bc69001c623.webp"
             }
           ]
         },
@@ -4630,7 +4632,7 @@
               "width": 1200,
               "height": 770,
               "alt": "Groudhog Day nave Oi été marmota subterraneo",
-              "path": "projetos/groundhog-day/imagens/05-01-6408ec28373201-55bc69dc5807d.jpg"
+              "path": "projetos/groundhog-day/imagens/05-01-6408ec28373201-55bc69dc5807d.webp"
             }
           ]
         },
@@ -4642,7 +4644,7 @@
               "width": 1200,
               "height": 770,
               "alt": "Groudhog Day nave Oi été marmota subterraneo",
-              "path": "projetos/groundhog-day/imagens/06-01-d3747a28373201-55bc69dc56b0e.jpg"
+              "path": "projetos/groundhog-day/imagens/06-01-d3747a28373201-55bc69dc56b0e.webp"
             }
           ]
         }

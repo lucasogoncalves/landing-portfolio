@@ -434,6 +434,16 @@ p {
     -webkit-line-clamp: 3;
 }
 
+.project-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 10px;
+}
+
+.project-card .project-tags .tag {
+    margin: 0;
+}
+
 .project-detail-body {
     background: #e9f4f3;
 }
