@@ -327,8 +327,7 @@ if (portfolio) {
     const card = document.createElement('article');
     card.className = 'panel project-card';
     const link = Object.assign(document.createElement('a'), { href: project.url, ariaLabel: `Abrir o projeto ${project.name}` });
-    const image = Object.assign(document.createElement('img'), { src: 'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 808 632%22%3E%3C/svg%3E', alt: project.name, loading: 'lazy', decoding: 'async', fetchPriority: 'low' });
-    image.dataset.src = project.image;
+    const image = Object.assign(document.createElement('img'), { src: project.image, alt: project.name, loading: 'lazy', decoding: 'async', fetchPriority: 'low' });
     link.append(image);
 
     const content = document.createElement('div');
@@ -361,22 +360,4 @@ if (portfolio) {
   }
 
   portfolio.append(list);
-
-  const loadImage = (image) => {
-    image.src = image.dataset.src;
-    image.removeAttribute('data-src');
-  };
-
-  if ('IntersectionObserver' in window) {
-    const observer = new IntersectionObserver((entries) => {
-      for (const entry of entries) {
-        if (!entry.isIntersecting) continue;
-        loadImage(entry.target);
-        observer.unobserve(entry.target);
-      }
-    }, { rootMargin: '250px 0px' });
-    list.querySelectorAll('img[data-src]').forEach((image) => observer.observe(image));
-  } else {
-    list.querySelectorAll('img[data-src]').forEach(loadImage);
-  }
 }

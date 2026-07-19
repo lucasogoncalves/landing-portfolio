@@ -73,7 +73,7 @@
                 <aside class="hero-visual" aria-label="Apresentação de Lucas O Goncalves">
                     <div class="portrait-orbit" aria-hidden="true"></div>
                     <figure class="portrait-wrap">
-                        <img src="images/Perfil 2026.webp" alt="Lucas O Goncalves, designer digital">
+                        <img src="images/Perfil 2026.webp" alt="Lucas O Goncalves, designer digital" decoding="async" fetchpriority="high">
                         <figcaption><span>Lucas O Goncalves</span><small>Recife &middot; Brasil</small></figcaption>
                     </figure>
                     <div class="floating-note floating-note-top"><span>Foco atual</span><strong>Marcas digitais</strong></div>
@@ -133,10 +133,14 @@
 
                 
                     <div class="hero-ticker" aria-label="Especialidades: Branding, UI/UX, Web Design, Design Gráfico e Direção de Arte">
-                                        <div class="hero-ticker-track">
+                        <div class="hero-ticker-track">
+                            <div class="hero-ticker-group">
                                             <span>Branding</span><i>&#10022;</i><span>UI/UX</span><i>&#10022;</i><span>Web Design</span><i>&#10022;</i><span>Design Gráfico</span><i>&#10022;</i><span>Direção de Arte</span><i>&#10022;</i>
+                            </div>
+                            <div class="hero-ticker-group" aria-hidden="true">
                                             <span aria-hidden="true">Branding</span><i aria-hidden="true">&#10022;</i><span aria-hidden="true">UI/UX</span><i aria-hidden="true">&#10022;</i><span aria-hidden="true">Web Design</span><i aria-hidden="true">&#10022;</i><span aria-hidden="true">Design Gráfico</span><i aria-hidden="true">&#10022;</i><span aria-hidden="true">Direção de Arte</span><i aria-hidden="true">&#10022;</i>
-                                        </div>
+                            </div>
+                        </div>
                     </div>
 
                 <section id="portfolio" class="section">
@@ -224,6 +228,7 @@
             let lastFrame = 0;
             let loopWidth = 0;
             let distance = 0;
+            let isVisible = true;
 
             const measure = () => {
                 track.querySelectorAll('[data-brand-clone]').forEach((item) => item.remove());
@@ -246,6 +251,12 @@
             };
 
             const animate = (time) => {
+                if (!isVisible || document.hidden) {
+                    animationFrame = 0;
+                    lastFrame = 0;
+                    return;
+                }
+
                 if (!lastFrame) lastFrame = time;
 
                 if (loopWidth) {
@@ -258,7 +269,16 @@
             };
 
             const startAnimation = () => {
-                if (!animationFrame) animationFrame = window.requestAnimationFrame(animate);
+                const shouldRun = isVisible && !document.hidden;
+                brandMarquee.classList.toggle('is-running', shouldRun);
+
+                if (!shouldRun && animationFrame) {
+                    window.cancelAnimationFrame(animationFrame);
+                    animationFrame = 0;
+                    lastFrame = 0;
+                } else if (shouldRun && !animationFrame) {
+                    animationFrame = window.requestAnimationFrame(animate);
+                }
             };
 
             if ('ResizeObserver' in window) {
@@ -268,6 +288,14 @@
             }
 
             group.querySelectorAll('img').forEach((image) => image.addEventListener('load', measure));
+            if ('IntersectionObserver' in window) {
+                new IntersectionObserver(([entry]) => {
+                    isVisible = entry.isIntersecting;
+                    startAnimation();
+                }).observe(brandMarquee);
+            }
+
+            document.addEventListener('visibilitychange', startAnimation);
             brandMarquee.classList.add('is-animated');
             measure();
             startAnimation();
