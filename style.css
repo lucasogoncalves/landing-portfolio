@@ -325,7 +325,7 @@ textarea { min-height: 180px; resize: vertical; }
 
 .hero-proof > div { display: grid; gap: 3px; }
 .hero-proof strong { font-family: "Space Grotesk", sans-serif; font-size: clamp(1.2rem, 2vw, 1.65rem); line-height: 1; }
-.hero-proof span { max-width: 13ch; color: var(--muted); font-size: 0.67rem; line-height: 1.35; }
+.hero-proof span { max-width: 15ch; color: var(--muted); font-size: 0.67rem; line-height: 1.35; }
 
 .hero-visual {
     position: relative;
