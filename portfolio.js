@@ -19,17 +19,6 @@ const projects = [
     ]
   },
   {
-    "name": "Site - Liberdade Private Club",
-    "description": "Esse é o Liberdade Private Club, um clube de futebol criado do zero na internet onde tive o privilégio de fazer parte dele.Desenvolvi o site do clube que começou como uma landing page, mas acabou se tornando a ferramenta essencial de seleção dos partici...",
-    "image": "portfolio/behance/250024147-site-liberdade-private-club.jpg",
-    "url": "projetos/site-liberdade-private-club/index.html",
-    "tags": [
-      "Interaction Design",
-      "UI/UX",
-      "Web Design"
-    ]
-  },
-  {
     "name": "Branding - Liberdade Private Club",
     "description": "Esse é o Liberdade Private Club, um clube de futebol criado do zero na internet onde tive o privilégio de fazer parte dele.Desenvolvi a identidade visual e a partir dela fui derivando o uniforme e criando as outras peças de design e integrando as marcas...",
     "image": "portfolio/behance/250020825-branding-liberdade-private-club.jpg",
@@ -171,60 +160,10 @@ const projects = [
     ]
   },
   {
-    "name": "Restauração de foto antiga",
-    "description": "Photography, Adobe Photoshop",
-    "image": "portfolio/behance/134315163-restauracao-de-foto-antiga.jpg",
-    "url": "projetos/restauracao-de-foto-antiga/index.html",
-    "tags": [
-      "Photography"
-    ]
-  },
-  {
-    "name": "NP New Style - Identidade visual",
-    "description": "Graphic Design",
-    "image": "portfolio/behance/133604879-np-new-style-identidade-visual.jpg",
-    "url": "projetos/np-new-style-identidade-visual/index.html",
-    "tags": [
-      "Graphic Design"
-    ]
-  },
-  {
-    "name": "Pizza Board for Wall",
-    "description": "Illustration, Graphic Design, Adobe Illustrator",
-    "image": "portfolio/behance/121462677-pizza-board-for-wall.jpg",
-    "url": "projetos/pizza-board-for-wall/index.html",
-    "tags": [
-      "Illustration",
-      "Graphic Design"
-    ]
-  },
-  {
-    "name": "Explorando o Espaço",
-    "description": "Music, Editing, Illustration, Guitar, Fruity Loops/FL Studio, Adobe Photoshop",
-    "image": "portfolio/behance/120913105-explorando-o-espaco.jpg",
-    "url": "projetos/explorando-o-espaco/index.html",
-    "tags": [
-      "Music",
-      "Editing",
-      "Illustration"
-    ]
-  },
-  {
     "name": "Transformação Social na Prática",
     "description": "Graphic Design, Illustration, Product Design, Adobe Photoshop, Fruity Loops/FL Studio",
     "image": "portfolio/behance/120912237-transformacao-social-na-pratica.jpg",
     "url": "projetos/transformacao-social-na-pratica/index.html",
-    "tags": [
-      "Graphic Design",
-      "Illustration",
-      "Product Design"
-    ]
-  },
-  {
-    "name": "Identidade Visual - Don Chá Ice Tea",
-    "description": "Graphic Design, Illustration, Product Design, Adobe Illustrator",
-    "image": "portfolio/behance/120911061-identidade-visual-don-cha-ice-tea.jpg",
-    "url": "projetos/identidade-visual-don-cha-ice-tea/index.html",
     "tags": [
       "Graphic Design",
       "Illustration",
@@ -240,17 +179,6 @@ const projects = [
       "Graphic Design",
       "Advertising",
       "Photography"
-    ]
-  },
-  {
-    "name": "Parceria com Amor Maior",
-    "description": "Graphic Design, Illustration, Product Design, Adobe Photoshop, Adobe Illustrator",
-    "image": "portfolio/behance/120854169-parceria-com-amor-maior.jpg",
-    "url": "projetos/parceria-com-amor-maior/index.html",
-    "tags": [
-      "Graphic Design",
-      "Illustration",
-      "Product Design"
     ]
   },
   {
@@ -285,26 +213,6 @@ const projects = [
     ]
   },
   {
-    "name": "Apocadino - Game",
-    "description": "O jogo maisRWAAAW?? - TSSS. KABUUUM!!Do universoO jogo se trata da extinção dos dinossauros. O jogador irá simplesmente fazer a história acontecer.Um indie games bidimensional de Point-and-click ao estilo, destruir e coletar.O jogo é indicado para ...",
-    "image": "portfolio/behance/26856833-apocadino-game.png",
-    "url": "projetos/apocadino-game/index.html",
-    "tags": [
-      "Art Direction",
-      "Game Design",
-      "Illustration"
-    ]
-  },
-  {
-    "name": "Groundhog Day",
-    "description": "This is a platform genre mobile game, where Jack our favorite groundhog need run to put your head out of the hole to start the holiday----------Este é um jogo para celular de gênero plataforma, onde Jack nossa marmota favorita precisa correr para colo...",
-    "image": "portfolio/behance/28373201-groundhog-day.png",
-    "url": "projetos/groundhog-day/index.html",
-    "tags": [
-      "Game Design"
-    ]
-  },
-  {
     "name": "Cesar 3D - Tiradentes REMAKE",
     "description": "Architecture, Game Design, Digital Art, Adobe Illustrator, Adobe Photoshop, Autodesk 3ds Max, Pixologic Zbrush, xNormal, Unity 3D",
     "image": "portfolio/behance/53002611-cesar-3d-tiradentes-remake.jpg",
@@ -327,7 +235,8 @@ if (portfolio) {
     const card = document.createElement('article');
     card.className = 'panel project-card';
     const link = Object.assign(document.createElement('a'), { href: project.url, ariaLabel: `Abrir o projeto ${project.name}` });
-    const image = Object.assign(document.createElement('img'), { src: project.image, alt: project.name, loading: 'lazy', decoding: 'async', fetchPriority: 'low' });
+    const image = Object.assign(document.createElement('img'), { src: 'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 808 632%22%3E%3C/svg%3E', alt: project.name, loading: 'lazy', decoding: 'async', fetchPriority: 'low' });
+    image.dataset.src = project.image;
     link.append(image);
 
     const content = document.createElement('div');
@@ -360,4 +269,22 @@ if (portfolio) {
   }
 
   portfolio.append(list);
+
+  const loadImage = (image) => {
+    image.src = image.dataset.src;
+    image.removeAttribute('data-src');
+  };
+
+  if ('IntersectionObserver' in window) {
+    const observer = new IntersectionObserver((entries) => {
+      for (const entry of entries) {
+        if (!entry.isIntersecting) continue;
+        loadImage(entry.target);
+        observer.unobserve(entry.target);
+      }
+    }, { rootMargin: '250px 0px' });
+    list.querySelectorAll('img[data-src]').forEach((image) => observer.observe(image));
+  } else {
+    list.querySelectorAll('img[data-src]').forEach(loadImage);
+  }
 }
