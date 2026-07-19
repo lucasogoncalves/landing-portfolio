@@ -456,7 +456,7 @@ textarea { min-height: 180px; resize: vertical; }
     aspect-ratio: 1;
     border: 1px dashed rgba(110, 231, 212, 0.24);
     border-radius: 50%;
-    animation: orbit-spin 26s linear infinite;
+    animation: none;
 }
 
 .portrait-orbit::before,
@@ -481,7 +481,7 @@ textarea { min-height: 180px; resize: vertical; }
     backdrop-filter: blur(14px);
 }
 
-.floating-note-top { top: 15%; right: -19px; display: grid; gap: 4px; padding: 14px 17px; border-radius: 14px; animation: float-note 5s ease-in-out infinite; }
+.floating-note-top { top: 15%; right: -19px; display: grid; gap: 4px; padding: 14px 17px; border-radius: 14px; animation: none; }
 .floating-note-top span { color: var(--accent); font-size: 0.59rem; letter-spacing: 0.13em; text-transform: uppercase; }
 .floating-note-top strong { font-family: "Space Grotesk", sans-serif; font-size: 0.84rem; }
 .floating-note-bottom { bottom: 11%; left: -36px; display: flex; align-items: center; gap: 8px; padding: 10px 13px; border-radius: 999px; color: var(--muted); font-family: "Space Grotesk", sans-serif; font-size: 0.62rem; }
@@ -633,8 +633,9 @@ textarea { min-height: 180px; resize: vertical; }
     .floating-note-top { top: 11%; right: 0; }
     .floating-note-bottom { bottom: 12%; left: 0; }
     .hero-brands-copy h2 { max-width: 28ch; }
-    .hero-brands-list img { max-width: clamp(98px, 34vw, 148px); }
-    .hero-brands-list li { height: 78px; }
+    .hero-brands-list { --brand-gap: clamp(18px, 6vw, 28px); margin: 4px; padding: 6px; }
+    .hero-brands-list img { max-width: clamp(72px, 25vw, 110px); }
+    .hero-brands-list li { height: 58px; }
     .hero-ticker { width: calc(100% + 32px); margin-left: -16px; }
 }
 
