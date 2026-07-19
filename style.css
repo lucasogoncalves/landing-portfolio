@@ -423,8 +423,6 @@ textarea { min-height: 180px; resize: vertical; }
 .floating-note-top { top: 15%; right: -19px; display: grid; gap: 4px; padding: 14px 17px; border-radius: 14px; }
 .floating-note-top span { color: var(--accent); font-size: 0.59rem; letter-spacing: 0.13em; text-transform: uppercase; }
 .floating-note-top strong { font-family: "Space Grotesk", sans-serif; font-size: 0.84rem; }
-.floating-note-bottom { bottom: 11%; left: -36px; display: flex; align-items: center; gap: 8px; padding: 10px 13px; border-radius: 999px; color: var(--muted); font-family: "Space Grotesk", sans-serif; font-size: 0.62rem; }
-.floating-note-bottom i { width: 42px; height: 1px; background: linear-gradient(90deg, var(--accent), var(--accent-strong)); }
 
 .hero-brands {
     position: relative;
@@ -458,23 +456,21 @@ textarea { min-height: 180px; resize: vertical; }
     mask-image: linear-gradient(90deg, transparent, #000 7%, #000 93%, transparent);
 }
 .hero-brands-marquee::-webkit-scrollbar { display: none; }
-.hero-brands-track { display: flex; width: max-content; }
+.hero-brands-track { display: flex; flex-flow: row nowrap; align-items: center; width: max-content; }
 .hero-brands-list {
     --brand-gap: clamp(28px, 4vw, 64px);
-    display: grid;
+    display: flex;
     flex: 0 0 auto;
-    grid-auto-flow: column;
-    grid-auto-columns: max-content;
+    flex-flow: row nowrap;
     align-items: center;
     gap: var(--brand-gap);
     width: max-content;
-    margin: 15px;
-    padding: 15px;
+    margin: 0;
+    padding: 10px var(--brand-gap) 10px 0;
     list-style: none;
-    align-content: center;
 }
 
-.hero-brands-list li { display: grid; place-items: center; height: clamp(76px, 7vw, 104px); padding: 2px 0; align-content: center; }
+.hero-brands-list li { display: flex; flex: 0 0 auto; align-items: center; justify-content: center; height: clamp(76px, 7vw, 104px); padding: 2px 0; }
 .hero-brands-list img { display: block; width: auto; height: auto; max-width: clamp(92px, 9vw, 148px); max-height: 100%; object-fit: contain; }
 .hero-brands-marquee.is-animated {
     overflow: hidden;
@@ -574,7 +570,7 @@ textarea { min-height: 180px; resize: vertical; }
     .floating-note-top { top: 11%; right: 0; }
     .floating-note-bottom { bottom: 12%; left: 0; }
     .hero-brands-copy h2 { max-width: 28ch; }
-    .hero-brands-list { --brand-gap: clamp(18px, 6vw, 28px); margin: 4px; padding: 6px; }
+    .hero-brands-list { --brand-gap: clamp(18px, 6vw, 28px); padding: 6px var(--brand-gap) 6px 0; }
     .hero-brands-list img { max-width: clamp(72px, 25vw, 110px); }
     .hero-brands-list li { height: 58px; }
 }
