@@ -75,6 +75,11 @@ h1, h2, h3, p { margin: 0; }
 .nav-links { display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-end; gap: 4px; }
 .nav-links a { padding: 9px 14px; border-radius: 999px; color: var(--muted); font-size: 0.88rem; transition: color 180ms ease, background 180ms ease; }
 .nav-links a:hover, .nav-links a:focus-visible { color: var(--text); background: rgba(255, 255, 255, 0.08); outline: none; }
+.language-switcher { display: inline-flex; gap: 2px; padding: 3px; border: 1px solid var(--line); border-radius: 999px; background: rgba(255, 255, 255, 0.05); }
+.language-switcher button { min-width: 36px; padding: 6px 9px; border: 0; border-radius: 999px; color: var(--muted); background: transparent; font: 700 0.72rem/1 "Manrope", sans-serif; cursor: pointer; }
+.language-switcher button:hover, .language-switcher button:focus-visible { color: var(--text); outline: none; }
+.language-switcher button.is-active { color: var(--bg); background: var(--accent); }
+.project-detail-body > .language-switcher { position: fixed; z-index: 10; top: 20px; right: 20px; }
 
 .panel { border: 1px solid var(--line); border-radius: var(--radius-xl); background: linear-gradient(145deg, rgba(23, 31, 47, 0.88), rgba(12, 17, 27, 0.82)); }
 
@@ -159,12 +164,14 @@ textarea { min-height: 180px; resize: vertical; }
     .topbar-inner, .nav-links { align-items: flex-start; }
     .topbar-inner, .nav-links { flex-direction: column; }
     .nav-links { width: 100%; }
+    .nav-links .language-switcher { align-self: flex-end; }
     .nav-links a { width: 100%; text-align: center; background: rgba(255, 255, 255, 0.04); }
     .services, .projects { grid-template-columns: 1fr; }
     .section { margin-top: 62px; }
     .service-card, .project-card, .contact-card, .footer-card { padding: 20px; }
     .project-card { padding: 10px; }
     .project-detail-shell { width: min(100% - 24px, 1440px); padding-top: 24px; }
+    .project-detail-body > .language-switcher { position: static; width: max-content; margin: 12px 12px 0 auto; }
     .project-detail-gallery { grid-template-columns: 1fr; gap: 10px; }
     .project-detail-modules { gap: 12px; }
 }

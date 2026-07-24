@@ -24,6 +24,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css?v=20260719-2">
+    <script src="i18n.js"></script>
 </head>
 <body>
     <div class="site-shell">
@@ -312,8 +313,11 @@
                 return;
             }
 
-            const defaultMessage = 'Olá, Lucas! Vim pelo seu site e gostaria de saber mais sobre os serviços.';
-            const whatsappMessage = `${defaultMessage}\n\nNome: ${name}\nMensagem: ${message}`;
+            const isEnglish = document.documentElement.lang === 'en';
+            const defaultMessage = isEnglish
+                ? 'Hi, Lucas! I found your website and would like to learn more about your services.'
+                : 'Olá, Lucas! Vim pelo seu site e gostaria de saber mais sobre os serviços.';
+            const whatsappMessage = `${defaultMessage}\n\n${isEnglish ? 'Name' : 'Nome'}: ${name}\n${isEnglish ? 'Message' : 'Mensagem'}: ${message}`;
             const whatsappUrl = `https://wa.me/5581995639800?text=${encodeURIComponent(whatsappMessage).replace(/%20/g, '+')}`;
 
             window.open(whatsappUrl, '_blank', 'noopener,noreferrer');
