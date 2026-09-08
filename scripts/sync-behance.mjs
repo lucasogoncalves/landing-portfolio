@@ -12,6 +12,7 @@ const DATA_FILE = path.join(COVER_DIR, 'projects.json');
 const ENDPOINT = 'https://www.behance.net/v3/graphql';
 const SITE_URL = 'https://lucasogoncalves.com';
 const BASE_PATH = '';
+const ASSET_VERSION = '20260908-1';
 const IMAGE_PLACEHOLDER = 'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 808 632%22%3E%3C/svg%3E';
 const BCP = '96ee8700-3ce5-4445-96b2-ab0e1a76a63a';
 const DEFAULT_USERNAME = 'lucas-o-goncalves';
@@ -417,12 +418,13 @@ function renderProjectPage(project) {
     <meta property="og:description" content="${escapeHtml(project.description)}">
     <meta property="og:url" content="${escapeHtml(canonical)}">
     <meta property="og:image" content="${escapeHtml(socialImage)}">
-    <link rel="icon" type="image/png" href="../../images/favicon.png">
+    <link rel="icon" type="image/png" href="../../images/favicon.png?v=${ASSET_VERSION}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="${BASE_PATH}/style.css">
-    <link rel="stylesheet" href="../../style.css">
+    <link rel="stylesheet" href="${BASE_PATH}/style.css?v=${ASSET_VERSION}">
+    <link rel="stylesheet" href="../../style.css?v=${ASSET_VERSION}">
+    <script src="../../i18n.js?v=${ASSET_VERSION}"></script>
 </head>
 <body class="project-detail-body">
     <div class="project-detail-shell">
