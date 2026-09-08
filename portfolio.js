@@ -29,7 +29,7 @@ const projects = [
     ]
   },
   {
-    "name": "Trazso – E-commerce de Impressão 3D com Preview",
+    "name": "Trazso – E-commerce de Impressão 3D com Preview e Automação com IA",
     "description": "Graphic Design, Interaction Design, Product Design, Adobe Illustrator, Adobe Photoshop, WordPress, Processing, ChatGPT",
     "image": "portfolio/behance/233530679-trazso-e-commerce-de-impressao-3d-com-preview.jpg",
     "url": "projetos/trazso-e-commerce-de-impressao-3d-com-preview/index.html",
