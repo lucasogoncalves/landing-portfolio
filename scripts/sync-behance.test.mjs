@@ -12,3 +12,4 @@ const projects = [{
 assert.deepEqual(portfolioProjects(projects)[0].tags, ['Branding', 'Web Design']);
 assert.match(renderPortfolioModule(projects), /projetos\/projeto\/index\.html/);
 assert.match(renderPortfolioModule(projects), /project-tags/);
+assert.match(renderPortfolioModule(projects), /projects\.sort/);

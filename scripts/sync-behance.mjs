@@ -12,7 +12,7 @@ const DATA_FILE = path.join(COVER_DIR, 'projects.json');
 const ENDPOINT = 'https://www.behance.net/v3/graphql';
 const SITE_URL = 'https://lucasogoncalves.com';
 const BASE_PATH = '';
-const ASSET_VERSION = '20260908-1';
+const ASSET_VERSION = '20260908-2';
 const IMAGE_PLACEHOLDER = 'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 808 632%22%3E%3C/svg%3E';
 const BCP = '96ee8700-3ce5-4445-96b2-ab0e1a76a63a';
 const DEFAULT_USERNAME = 'lucas-o-goncalves';
@@ -518,6 +518,8 @@ function portfolioProjects(projects) {
 
 function renderPortfolioModule(projects) {
   return `const projects = ${JSON.stringify(portfolioProjects(projects), null, 2)};
+
+projects.sort((a, b) => Number(b.url.includes('/trazso-')) - Number(a.url.includes('/trazso-')));
 
 const portfolio = document.querySelector('#portfolio');
 

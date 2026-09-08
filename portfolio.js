@@ -225,6 +225,8 @@ const projects = [
   }
 ];
 
+projects.sort((a, b) => Number(b.url.includes('/trazso-')) - Number(a.url.includes('/trazso-')));
+
 const portfolio = document.querySelector('#portfolio');
 
 if (portfolio) {
